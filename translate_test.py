@@ -1,6 +1,7 @@
 from utils import *
 from dataset import *
 from mBERT import MBERT
+from aBERT import ABERT
 
 
 def test(
@@ -18,7 +19,7 @@ def test(
             logits = model(
                 input_ids=input['input_ids'], 
                 attention_mask = input['attention_mask'], 
-                token_type_ids = input['token_type_ids']
+                # token_type_ids = input['token_type_ids']
             )
         predictions = torch.argmax(logits, dim=-1)
         gold += batch['label']
@@ -57,7 +58,7 @@ def train(
             outputs = model(
                 input_ids=input['input_ids'], 
                 attention_mask = input['attention_mask'], 
-                token_type_ids = input['token_type_ids']
+                # token_type_ids = input['token_type_ids']
             )
             # outputs = outputs.softmax(dim=1)
             outputs = loss(outputs, label)
@@ -141,31 +142,58 @@ if __name__ == '__main__':
     dev_ds = LangDataset (dev_df_eng)
     dev_dl = DataLoader (dev_ds, batch_size = params['train_bs'], shuffle=True, num_workers= params['num_workers'])
 
-    tokenizer = BertTokenizer.from_pretrained('bert-base-multilingual-cased')
-    model = BertModel.from_pretrained("bert-base-multilingual-cased")
-    mbert = MBERT(model)
+    tokenizer = AutoTokenizer.from_pretrained("xlm-roberta-base")
+    model = AutoAdapterModel.from_pretrained("xlm-roberta-base")
+    mbert = ABERT(model)
+    # mbert = MBERT(model)
+
+    # mbert.set_adapters(['nli'], ['en', 'nli'])
+
     mbert.to(device)
 
     optimizer = AdamW(model.parameters(), lr=params['lr'])
 
-    lr_scheduler = get_scheduler(
+    # scheduler = torch.optim.lr_scheduler.LambdaLR(optimizer, lr_lambda= lambda epoch: 1e-4 ** epoch)  
+    scheduler = get_scheduler(
         name="linear", 
         optimizer=optimizer, 
         num_warmup_steps=0, 
         num_training_steps=params['train_epochs'] * len(train_df_eng)
-    )   
+    ) 
 
+    # train(
+    #     mbert,
+    #     device,
+    #     optimizer,
+    #     scheduler,
+    #     tokenizer,
+    #     train_dl,
+    #     dev_dl,
+    #     params['train_epochs'] 
+    # )
 
-    train(
-        mbert,
-        device,
-        optimizer,
-        lr_scheduler,
-        tokenizer,
-        train_dl,
-        dev_dl,
-        params['train_epochs'] 
+    training_args = TrainingArguments(
+        learning_rate=params['lr'],
+        num_train_epochs=params['train_epochs'],
+        per_device_train_batch_size=params['train_bs'],
+        per_device_eval_batch_size=params['val_bs'],
+        logging_steps=100,
+        output_dir=params['model_path'],
+        overwrite_output_dir=True,
+        # The next line is important to ensure the dataset labels are properly passed to the model
+        remove_unused_columns=False,
     )
+
+
+    trainer = AdapterTrainer(
+        model=model,
+        args=training_args,
+        train_dataset=train_ds,
+        eval_dataset=dev_ds,
+        tokenizer=tokenizer
+    )
+
+    trainer.train()
 
     # trans_model = M2M100ForConditionalGeneration.from_pretrained("facebook/m2m100_418M")
     # trans_tokenizer = M2M100Tokenizer.from_pretrained("facebook/m2m100_418M")

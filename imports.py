@@ -52,6 +52,12 @@ from transformers import pipeline
 from logger import setup_logging
 import time
 
+from transformers import AutoConfig
+from transformers import AdapterConfig
+from transformers.adapters.composition import Stack
+from transformers import AutoTokenizer, AutoAdapterModel
+from transformers import TrainingArguments, AdapterTrainer
+
 TIME = int(time.time())
 folder = f'models/{TIME}'
 
@@ -71,7 +77,7 @@ params['device'] = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 params['dropout'] = 0.2
 
 # Training:
-params['lr'] = 1e-5
+params['lr'] = 1e-2
 params['train_bs'] = 64
 params['val_bs'] = 32
 params['test_bs'] = 32

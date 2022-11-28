@@ -38,6 +38,7 @@ import torch.nn.functional as F
 # from torchtext.legacy.data import BucketIterator
 # import torchcrf 
 from torch.utils.data import Dataset, DataLoader
+from datasets import Dataset
 
 from sklearn.model_selection import train_test_split
 from transformers import BertTokenizer, BertModel
@@ -77,7 +78,7 @@ params['device'] = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 params['dropout'] = 0.2
 
 # Training:
-params['lr'] = 1e-2
+params['lr'] = 1
 params['train_bs'] = 64
 params['val_bs'] = 32
 params['test_bs'] = 32

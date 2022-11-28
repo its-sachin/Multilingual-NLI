@@ -35,42 +35,24 @@ class ABERT(nn.Module):
 
     def __init__(self, model, freeze=False, ):
         super(ABERT, self).__init__()
-        D_in, H, D_out = 768, 50, 3
 
         lang_adap = self.get_adapters()
         for lang in lang_adap:
             model.load_adapter(lang_adap[lang][0], config=lang_adap[lang][1])
 
-        model.add_adapter("copa")
-        model.train_adapter(["copa"])
-        model.active_adapters = Stack("en", "copa")
-
-        self.mbert = model
-
-        self.classifier = nn.Sequential(
-            nn.Linear(D_in, H),
-            nn.ReLU(),
-            # nn.Dropout(0.5),
-            nn.Linear(H, D_out)
+        model.add_adapter("nli")
+        model.train_adapter(["nli"])
+        model.active_adapters = Stack("en", "nli")
+        model.add_classification_head(
+            "nli",
+            num_labels=3,
         )
-
-        if freeze:
-            for param in self.bert.parameters():
-                param.requires_grad = False
+    
+        self.mbert = model
 
     def set_adapters(self, train, active):
         self.mbert.train_adapter(train)
         self.mbert.active_adapters = Stack(*active)
         
-    def forward(self, input_ids, attention_mask):
-        outputs = self.mbert(
-            input_ids=input_ids,
-            attention_mask=attention_mask,
-            # token_type_ids=token_type_ids
-        )
-        
-        last_hidden_state_cls = outputs[0][:, 0, :]
-
-        logits = self.classifier(last_hidden_state_cls)
-
-        return logits
+    def forward(self, **args):
+        return self.mbert(**args)

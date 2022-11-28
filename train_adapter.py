@@ -3,80 +3,6 @@ from dataset import *
 from mBERT import MBERT
 from aBERT import ABERT
 
-
-def test(
-    model,
-    test_dataset
-):
-    model.eval()
-    gold = []; pred = []
-    for batch in tqdm(test_dataset):
-
-        input = tokenizer(batch['hyp'], batch['prem'], return_tensors='pt', padding=True)
-        input.to(device)
-
-        with torch.no_grad():
-            logits = model(
-                input_ids=input['input_ids'], 
-                attention_mask = input['attention_mask'], 
-                # token_type_ids = input['token_type_ids']
-            )
-        predictions = torch.argmax(logits, dim=-1)
-        gold += batch['label']
-        pred += list(predictions.cpu())
-    return  (metrics.f1_score(gold, pred, average="micro") + metrics.f1_score(gold, pred, average="macro"))/2
-
-
-def train(
-    model,
-    device,
-    optimizer,
-    scheduler,
-    tokenizer,
-    train_dataset,
-    dev_dataset,
-    num_epoch
-):
-
-    best = 0
-    loss = nn.CrossEntropyLoss()
-    for epoch in range(num_epoch):
-
-        logger.info(f'EPOCH: {epoch}')
-
-        model.train()
-
-        # TODO: optimize this
-        for batch in tqdm(train_dataset):
-
-            label = batch['label'].to(device)
-
-            input = tokenizer(batch['hyp'], batch['prem'], return_tensors='pt', padding=True)
-
-            input.to(device)
-
-            outputs = model(
-                input_ids=input['input_ids'], 
-                attention_mask = input['attention_mask'], 
-                # token_type_ids = input['token_type_ids']
-            )
-            # outputs = outputs.softmax(dim=1)
-            outputs = loss(outputs, label)
-            outputs.backward()
-
-            optimizer.step()
-            scheduler.step()
-            optimizer.zero_grad()
-
-        # print('\tTrain acc: ' , test(model, train_dataset))
-        score = test(model, dev_dataset)
-        if score > best:
-            best = score
-            torch.save(model, params['model_file'])
-        logger.info(f'\tDev acc: {score} [{best}]')
-    logger.info(f'Best score: {best}')
-
-
 def translate(data, model, tokenizer, src_lang, dest_lang):
 
     tokenizer.src_lang = src_lang
@@ -117,11 +43,15 @@ def predict(
         pred += list(predictions.cpu())
     return pred
 
+# def compute_accuracy(p):
+#   preds = np.argmax(p.predictions, axis=1)
+#   micro = metrics.f1_score(p.label_ids, preds, average="micro")
+#   macro = metrics.f1_score(p.label_ids, preds, average="macro")
+#   return {"acc": (micro+macro)/2 }   
+
 def compute_accuracy(p):
   preds = np.argmax(p.predictions, axis=1)
-  micro = metrics.f1_score(p.label_ids, preds, average="micro")
-  macro = metrics.f1_score(p.label_ids, preds, average="macro")
-  return {"acc": (micro+macro)/2 }   
+  return {"acc": (preds == p.label_ids).mean()}
 
 if __name__ == '__main__':
 

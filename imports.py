@@ -78,13 +78,13 @@ params['device'] = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 params['dropout'] = 0.2
 
 # Training:
-params['lr'] = 1
+params['lr'] = 1e-4
 params['train_bs'] = 64
 params['val_bs'] = 32
 params['test_bs'] = 32
 params['num_workers'] = 1
 
-params['train_epochs'] = 5
+params['train_epochs'] = 8
 params['grad_clip'] = 5.0
 params['seed'] = 69
 

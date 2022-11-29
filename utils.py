@@ -35,5 +35,35 @@ def print_params (params, logger):
         cnt += 1
         if (cnt + 1) % 5 == 0:
             msg += '\n'
-    msg += '=== End of Arguments ===\n\n'
+    msg += '\n=== End of Arguments ===\n\n'
     logger.info (msg)
+
+def compute_metrics(eval_pred):
+    logits, labels = eval_pred
+    pred = np.argmax(logits, axis=1)
+    all_metrics = {
+        'accuracy' : metrics.accuracy_score(labels, pred),
+        'micro_f1' : metrics.f1_score (labels, pred, average='micro'),
+        'macro_f1' : metrics.f1_score (labels, pred, average='macro'),
+        'temp_acc' : (pred == labels).mean()
+    }
+    all_metrics['avg_f1'] = (all_metrics['micro_f1'] + all_metrics['macro_f1'])/2
+    return all_metrics
+
+
+def encode_batch(tokenizer):
+    def encode_temp(batch):
+        return tokenizer(
+            batch["hypothesis"],
+            batch["premise"],
+            truncation=True,
+            padding=True
+        )
+    return encode_temp
+
+def df_to_ds(df, encode_batch):
+    ds = Dataset.from_dict({l: df[l] for l in df})
+    ds = ds.map(encode_batch, batched=True, batch_size = params['train_bs'], load_from_cache_file=False)
+    ds = ds.rename_column("gold_label", "labels")
+    ds.set_format(type="torch", columns=["input_ids", "attention_mask", "labels"])
+    return ds

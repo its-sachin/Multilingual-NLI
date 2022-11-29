@@ -74,6 +74,7 @@ logger = setup_logging (console_log_level='debug', logfile_log_level='debug', lo
 
 params = {}
 params['train_path'] = 'data/train.tsv'
+params['test_path'] = 'data/test_kaggle_trans.tsv'
 # params['val_path'] = 'data/dev.txt'
 # params['labels_path'] = 'data/labels.json'
 params['model_path'] = folder
@@ -81,6 +82,10 @@ params['model_file'] = os.path.join(params['model_path'], 'model.pkl')
 params['my_model_file'] = os.path.join(params['model_path'], 'my_model.pkl')
 params['my_adapter_file'] = os.path.join(params['model_path'], 'my_nli.pkl')
 params['device'] = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+# params['load_model'] = 'models/1669729888/my_model.pkl'    # with nli and adapter fine tuning
+params['load_model'] = 'models/1669728712/my_model.pkl'  # with adapter fine tuning only
+# params['load_model'] = 'models/1669726610/my_model.pkl' # without adapter fine tuning
+
 # params['dropout'] = 0.2
 
 # Training:

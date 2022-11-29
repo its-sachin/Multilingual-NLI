@@ -13,14 +13,16 @@ if __name__ == '__main__':
     logger.debug(f'device: {device}')
 
     to_eval = ['hi', 'sw', 'zh', 'es']
-    dfs = read_data(params['train_path'])
-    train_dfs, test_dfs = train_dev_split(dfs, 0.2, params['seed'], to_eval)
+    dfs = read_data(params['test_path'])
+    # train_dfs, test_dfs = train_dev_split(dfs, 0.2, params['seed'], to_eval)
+    # dfs['en'] = test_dfs['en']
     tokenizer = AutoTokenizer.from_pretrained("xlm-roberta-base")
 
     #only 4 lang
-    model = torch.load('models/1669729888/my_model.pkl')    # with nli and adapter fine tuning
+    # model = torch.load('models/1669729888/my_model.pkl')    # with nli and adapter fine tuning
     # model = torch.load('models/1669728712/my_model.pkl')  # with adapter fine tuning only
     # model = torch.load('models/1669726610/my_model.pkl')  # without adapter fine tuning
+    model = torch.load(params['load_model'])
     tokenizer = AutoTokenizer.from_pretrained("xlm-roberta-base")
 
     
@@ -31,7 +33,7 @@ if __name__ == '__main__':
     for lang in to_eval:
 
         logger.info(F'Testing on {lang}......')
-        test_ds = df_to_ds(test_dfs[lang], encode_batch(tokenizer))
+        test_ds = df_to_ds(dfs[lang], encode_batch(tokenizer))
         # test_ds = df_to_ds(test_dfs[lang], encode_batch(tokenizer))
         model.active_adapters = Stack(lang, "nli")
         eval_trainer = AdapterTrainer(
@@ -41,3 +43,4 @@ if __name__ == '__main__':
             compute_metrics=compute_metrics,
         )
         logger.critical(eval_trainer.evaluate())
+        logger.debug('\n\n\n')

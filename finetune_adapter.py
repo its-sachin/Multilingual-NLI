@@ -21,7 +21,6 @@ if __name__ == '__main__':
 
     tokenizer = AutoTokenizer.from_pretrained("xlm-roberta-base")
 
-
     model = torch.load('models/1669726610/my_model.pkl')
     tokenizer = AutoTokenizer.from_pretrained("xlm-roberta-base")
 

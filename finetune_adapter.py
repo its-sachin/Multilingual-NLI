@@ -7,30 +7,22 @@ from callback import CustomCallback
 
 
 if __name__ == '__main__':
-
     seed_everything(params['seed'])
+    params['train_path'] = sys.argv[1]
     print_params(logger=logger, params=params)
-
-    device = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
-    logger.debug(f'device: {device}')
 
     to_eval = ['hi', 'sw', 'zh', 'es']
 
     dfs = read_data(params['train_path'])
     train_dfs, test_dfs = train_dev_split(dfs, 0.1, params['seed'], to_eval)
 
-    tokenizer = AutoTokenizer.from_pretrained("xlm-roberta-base")
-
-    model = torch.load('models/1669726610/my_model.pkl')
-    tokenizer = AutoTokenizer.from_pretrained("xlm-roberta-base")
-
-    model.to(device)
+    model = torch.load(params['my_model_file']).to(params['device'])
 
     for lang in to_eval:
 
         logger.info(F'Fine tuning {lang}......')
-        train_ds = df_to_ds(train_dfs[lang], encode_batch(tokenizer))
-        dev_ds = df_to_ds(test_dfs[lang], encode_batch(tokenizer))
+        train_ds = df_to_ds(train_dfs[lang], encode_batch(model.tokenizer))
+        dev_ds = df_to_ds(test_dfs[lang], encode_batch(model.tokenizer))
         model.train_adapter([lang])
         model.active_adapters = Stack(lang, 'nli')
 
@@ -42,7 +34,7 @@ if __name__ == '__main__':
             evaluation_strategy = "epoch",
             logging_strategy ='epoch',
             logging_steps=100,
-            save_strategy='epoch',
+            save_strategy='no',
             output_dir=params['model_path'],
             overwrite_output_dir=True,
             # The next line is important to ensure the dataset labels are properly passed to the model
@@ -51,11 +43,11 @@ if __name__ == '__main__':
 
 
         trainer = AdapterTrainer(
-            model=model,
+            model=model.mbert,
             args=training_args,
             train_dataset=train_ds,
             eval_dataset=dev_ds,
-            tokenizer=tokenizer,
+            tokenizer=model.tokenizer,
             compute_metrics = compute_metrics,
         )
         
@@ -64,5 +56,4 @@ if __name__ == '__main__':
         logger.debug('\n\n\n\n')
     
     torch.save (model, params['my_model_file'])
-    model.save_adapter(params['my_adapter_file'], "nli")
     logger.critical (trainer.evaluate())

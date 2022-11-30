@@ -67,3 +67,8 @@ def df_to_ds(df, encode_batch):
     ds = ds.rename_column("gold_label", "labels")
     ds.set_format(type="torch", columns=["input_ids", "attention_mask", "labels"])
     return ds
+
+def write_list (pred, file_name):
+    with open(file_name,'w') as file:
+        for p in pred:
+            file.write(f'{p}\n')

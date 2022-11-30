@@ -33,7 +33,7 @@ class ABERT(nn.Module):
         }
 
 
-    def __init__(self, model, freeze=False, ):
+    def __init__(self, model, tokenizer ):
         super(ABERT, self).__init__()
 
         lang_adap = self.get_adapters()
@@ -49,10 +49,8 @@ class ABERT(nn.Module):
         )
     
         self.mbert = model
-
-    def set_adapters(self, train, active):
-        self.mbert.train_adapter(train)
-        self.mbert.active_adapters = Stack(*active)
+        self.tokenizer = tokenizer
+        self.present = ['en', 'hi', 'sw', 'es', 'zh']
         
     def forward(self, **args):
         return self.mbert(**args)

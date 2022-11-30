@@ -9,7 +9,7 @@ class LangDataset (Dataset):
 
     def __getitem__(self, i):
         row = self.df.iloc[i]
-        return {'hyp' : row['hypothesis'], 'prem' : row['premise'], 'label' : row['gold_label']}
+        return {'hyp' : row['hypothesis'], 'prem' : row['premise']}
 
 
 

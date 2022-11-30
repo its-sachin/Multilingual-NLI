@@ -85,7 +85,7 @@ if __name__ == '__main__':
             evaluation_strategy = "epoch",
             logging_strategy ='epoch',
             logging_steps=100,
-            save_strategy='epoch',
+            save_strategy='no',
             output_dir=params['model_path'],
             overwrite_output_dir=True,
             # The next line is important to ensure the dataset labels are properly passed to the model
@@ -107,5 +107,4 @@ if __name__ == '__main__':
         logger.debug('\n\n\n\n')
     
     torch.save (model, params['my_model_file'])
-    model.save_adapter(params['my_adapter_file'], "nli")
     logger.critical (trainer.evaluate())

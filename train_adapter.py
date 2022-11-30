@@ -8,26 +8,21 @@ from callback import CustomCallback
 if __name__ == '__main__':
 
     seed_everything(params['seed'])
+    params['train_path'] = sys.argv[1]
     print_params(logger=logger, params=params)
 
-    device = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
-    logger.debug(f'device: {device}')
-
     dfs = read_data(params['train_path'])
-    dfs['en'] = dfs['en'].head(100000000)
+    dfs['en'] = dfs['en'].head(100)
     train_dfs, test_dfs = train_dev_split(dfs, 0.2, params['seed'], ['en'])
     dfs['en'] = test_dfs['en']
 
+
     tokenizer = AutoTokenizer.from_pretrained("xlm-roberta-base")
-
-    train_ds = df_to_ds(train_dfs['en'], encode_batch(tokenizer))
-    dev_ds = df_to_ds(test_dfs['en'], encode_batch(tokenizer))
-    
     model = AutoAdapterModel.from_pretrained("xlm-roberta-base")
-    mbert = ABERT(model)
+    model = ABERT(model, tokenizer).to (params['device'])
 
-    mbert = mbert.mbert
-    mbert.to(device)
+    train_ds = df_to_ds(train_dfs['en'], encode_batch(model.tokenizer))
+    dev_ds = df_to_ds(test_dfs['en'], encode_batch(model.tokenizer))
 
     training_args = TrainingArguments(
         learning_rate=params['lr'],
@@ -37,7 +32,7 @@ if __name__ == '__main__':
         evaluation_strategy = "epoch",
         logging_strategy ='epoch',
         logging_steps=100,
-        save_strategy='epoch',
+        save_strategy='no',
         output_dir=params['model_path'],
         overwrite_output_dir=True,
         # The next line is important to ensure the dataset labels are properly passed to the model
@@ -46,11 +41,11 @@ if __name__ == '__main__':
 
 
     trainer = AdapterTrainer(
-        model=mbert,
+        model=model.mbert,
         args=training_args,
         train_dataset=train_ds,
         eval_dataset=dev_ds,
-        tokenizer=tokenizer,
+        tokenizer=model.tokenizer,
         compute_metrics = compute_metrics,
     )
     
@@ -58,8 +53,4 @@ if __name__ == '__main__':
     trainer.train()
     
     torch.save (model, params['my_model_file'])
-    model.save_adapter(params['my_adapter_file'], "nli")
     logger.critical (trainer.evaluate())
-
-
-

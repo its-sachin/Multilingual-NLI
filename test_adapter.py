@@ -13,7 +13,15 @@ if __name__ == '__main__':
     logger.debug(f'device: {device}')
 
     to_eval = ['hi', 'sw', 'zh', 'es']
-    dfs = read_data(params['test_path'])
+    dfs = read_data(params['train_path'])
+    _ , dfs = train_dev_split(dfs, 0.2, params['seed'], to_eval)
+    temp_dfs = {}
+    for lang in to_eval: temp_dfs[lang] = dfs[lang]
+    dfs = temp_dfs
+    final_df = pd.concat (dfs.values())
+    final_df.to_csv ('test/big_input', sep='\t', index=False)
+    write_list (list (map (lambda i: params['inv_label_map'][i], list(final_df.gold_label))), 'test/big_output')
+    exit()
     # train_dfs, test_dfs = train_dev_split(dfs, 0.2, params['seed'], to_eval)
     # dfs['en'] = test_dfs['en']
     tokenizer = AutoTokenizer.from_pretrained("xlm-roberta-base")

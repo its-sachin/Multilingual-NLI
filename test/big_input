@@ -1,0 +1,801 @@
+gold_label	premise	hypothesis	language
+2	मैंने उसे पहले ही कह दिया था, मैंने उसे समजने की कोशिश की की मै पक चूका था और मेरे पास आवश्यक सारे जानकारी भी नहीं थी ।	मैंने उनसे कहा कि मुझे और जानकारी चाहिए।	hi
+1	हाँ नही है, टेक्सस में पिस्तौल साथ में लेकर चलना गैर-कानूनी नही है लेकिन नही ऐसा नही है की इसे आप अपने घर पर रख सकते हैं	टेक्सास में आप कहीं भी एक हैंडगन ले सकते हैं!	hi
+1	आप इसे एक बार में वापस कर लेंगे, और अपने दल को अपने साथ ले जयेंगे, वरना .... लेकिन ओगलने हिंसक भाव और इशारे के साथ उसे अवरोध किया।	ओगले ने उसे बोलना जारी रखने दिया।	hi
+2	हाँ, मेरे पास एक क्रेडिट यूनियन है	Mera ek Credit Union hai, jiske paas mai jaa sakta hu	hi
+1	तो आप आए हैं, उप-राज्यपाल ने उन्होकी जयकार कि, और अस्पष्ट गुनगुनाते हुए और जाहिरा तौर पर खराब हास्य करते हुए स्वागतपे शामील हुआ ।	उप-राज्यपाल ने कहा, मैं आपके आने की उम्मीद कर रहा था।	hi
+1	और कभी कभी बाहर जाकर सलाद खाना अच्छा है |	मैं कभी सलाद नहीं ख़ाता . यक्क	hi
+1	वह कागज़ को टुकड़ो में फाड कर मिटटी में मिला देता था , ऐशट्रे वाली, आग लगाके उसे जलने देता था , और राख को घूमते रहता था ।	वह कुछ भी जलाने से बहुत डरा हुआ था इसलिए उसने सिर्फ फ्लश कर दिया|	hi
+2	वह लड़की, वहाँ पर। उसने खुली बांह को तानकर उसकी और संकेत किया।	उसने लड़की को इंगित किया।	hi
+0	बस इतनी सी बात है कि जब से मेरे पास कम पैसे हैं तभी से मैं खुद को ललचाता नहीं हूं	मेरे पास केवल  $ 20 है मेरे सेलेरी आने तक।	hi
+1	वहाँ एक फांसी पोर्ट राँयल मे इस बदमाश का इंतजार कर रहा है। रक्त उस पर हस्तक्षेप किया होगा, लेकिन जंलियन प्रभु उसे रोक दिया ।	ब्लड पोर्ट रॉयल में स्थित एक अंतरराष्ट्रीय आपराधिक संगठन है जो लार्ड जूलियन अवैध उद्देश्यों के साथ अनुबंध करता है।	hi
+2	सहज रूप से, राज्य अंतरिक्ष में थोड़ा संसृत प्रवाह वर्गीकरण की अनुमति देता है, जब दो राज्य एक उत्तराधिकारी राज्य पर एकजुट हो जाते हैं, तो उन दो राज्यों को नेटवर्क द्वारा समकक्ष के रूप में वर्गीकृत किया जाता है।	अभिसरण प्रवाह वर्गीकरण की अनुमति देता है।	hi
+2	मुझे लगता है कि यही वजह है कि मुझे वो याद है।	शायद यही वजह है कि मैनें इसे याद किया।	hi
+0	हाँ, मुझे लगता है कि काफी अधिक आर्थिक रूप से भी गैस के समान है और सब कुछ, मेरा मतलब है कि मैं हमेशा के लिए गैस के टैंक पर जा सकता हूं	वे चारों ओर सबसे अच्छी लग रही कार भी हैं।	hi
+0	मेरे पास पर्याप्त जानकारी नहीं है।	मुझे किस प्रकार की कार खरीदनी है यह निश्चय लेने के लिए और अधिक जानकारी की आवश्यकता है।	hi
+2	उसने फिर एक बार नहीं दोहराया , इसी लिए उसने मुझे वहा तनाव में दाल दिया, और मुझे ये भी नहीं पता की कब इसकि ज़रूरत पड़ेगी ।	Mai ghabra gaya tha kyunki mujhe ye ni pata chul raha tha ki kitna baj raha hai	hi
+0	राजा के आयुक्त की उसकी स्वीकृति के बाद से पिछले दो सप्ताह में उसके साथ कुछ ठीक नहीं हो रहा था।	किंग्स कमीशन कई जिम्मेदारियों के साथ एक बहुत ही प्रतिष्ठित खिताब था।	hi
+1	आपका दिल भूकंप पूर्व झटके लेने के लिए पूर्व अनुकूलित किया हुआ।	आपका दिल भूकंप से पहले के झटको को नहीं पहचान सकता|	hi
+0	और , यदि वह बढ़ता तोह तेज़ी से बढ़ने लगता और 'व्हिश' करके आवाज़ बनता, और ऐसे लगता मानो तुम्हारा सर ही निकल फेंकता।	अगर बिजली का प्रवाह तेज़ हो, तो किसी के लिए आसपास रहना बहुत खतरनाक है।	hi
+2	क्या सांख्यिकीय औसत से जीवधारियों  में ऑर्डर का स्रोत हो सकता है?	यह स्पष्ट है कि जीवों में क्रम है।	hi
+2	यद्यपि मुझे नहीं लगता कि वह मुझसे उम्मीद कर सकता है कि मैंने ऐसा किया हो।	मुझे समझ में नहीं आता क्यों उसने सोचा कि मैं इसे खत्म कर दूंगा।	hi
+2	डेबोरिया लिपस्टाद ने अपनी पुस्तक में होलोकॉस्ट को अस्विकार करते हुए लिखा है कि हमें सार्वजनिक रूप से अस्वीकार्य और स्पष्ट रूप से झूठे दावों पर बहस नहीं करना चाहिए, और इस तरह उन्होंने सरकारी नियन्त्रण के रूप में शक्तिशाली उपाय उन्नत किया।	लिपस्टेड ने किताब लिखी है|	hi
+2	इन संग्रहों को देखने के बाद, आयुक्त के घर के लिए पहाड़ी चढ़ें, जहां आप आसपास के समुद्र तट और पोतगाह परिसर के शेष भाग के सुहावने दृश्यों का अनुभव करेंगे।	आप पहाड़ की चोटी से समुद्र तट के दृश्य देख सकते हैं।	hi
+1	हमें नहीं पता था कि U2 क्या है और किसी को भी U2 के बारे में कुछ नहीं पता था।	हम सब यू 2 के बारे में जानते थे!	hi
+2	क्या आपने फर्म को पढ़ा है?	क्या आपने फर्म पढ़ी?	hi
+1	और उन्होंने यह घर पाया  या इस अपार्टमेंट इमारत या जो कुछ भी यह था कि वे अंदर रह सकते थे, और यह ब्रॉड स्ट्रीट के ठीक किनारे पर था	वे मुख्य सड़क पर एक तम्बू में रहते थे।	hi
+0	हमने गणितीय मॉडल शुरू किए हैं जिनसे इस संगठन के बारे में श्रेणीबद्ध रुप से पता चलता है, यद्यपि सबसे अच्छा वर्तमान मॉडल उत्सुकता से उनके प्रतिभा के बावजूद सीमित हैं।	संगठन के बारे में जानने के लिए बहुत कुछ है।	hi
+0	माता-पिता और बच्चों को एक साथ रहने के लिए फ़ेशनिंग का समय इस पुस्तक में चर्चा करने वाले विचारों और प्रथाओं को लागू करने की ओर पहला कदम है।	यह परवरिश कि किताब न्यु यर्क टाइम्स के सबसे ज्यादा बिकने बाली सुची मै शमिल है।	hi
+2	और उसने कहा, माँ, मैं घर आया हूं।	Uski maa ne bataya ki wo ghar pahuch gaya	hi
+0	मित राष्ट्र और असीम समानता के बीच का संबंध असत्यवत उतार-चढ़ाव है।	सीमित राष्ट्र को पृथक किया जाता था |	hi
+1	और वो पच्चीस सौ लोग थे जब मैं इसमें शामिल हुआ था और	वहाँ ज़्यादा से ज़्यादा केवल 100 लोग है जो कभी शामिल हुए हैं।	hi
+1	कानून न केवल किसी व्यक्ति को बल्कि पूरे समुदाय या राष्ट्र को मुक्ति दिलाता है।	मोचन के लिए, व्यक्तियों को कानून की ओर मुड़ना चाहिए।	hi
+2	ओह, यह नाग नदी ओह नाग नदी उसके अन्दर बहुत नाग है	सांप नदी सांपों  से भरा है।	hi
+0	विचार करें कि कैसे राष्ट्रिय समाचार स्थानीय क्षेत्र को प्रभावित करता है	राष्ट्रीय समाचार निकास हमारे स्थानीय स्थानों को पिछड़ा हुआ दिखाई देता बनाते हैं ।	hi
+0	और इससे आपको भयानक लग रहा है।	आप एक घंटे के बाद अच्छा महसूस करेंगे.	hi
+2	haa ham bilkul chup rahe aur vah uske liye ek tarah se apratyakshit janam din party tha.	हमने उसके लिए एक आश्चर्यजनक जन्मदिन बनाया।	hi
+2	paudharopan poonjeevaad ka ant usi tarah aya hoga jis tarah Europe mein communism ka.	प्लांटेशन पूंजीवाद ख़तम हो गया	hi
+0	अगर आप इस बारे में कुछ नहीं जानते हैं तो मुझे कोई परवाह नहीं है।	मुझे पता है कि आप इसके साथ भ्रमित नहीं हैं।	hi
+1	हाँ कुछ विशेष रुचि समूह	ग्रुप बहुत से अलग अलग मुद्दों में रूचि रखता है	hi
+1	हमने अपने कुछ मित्रों के साथ मदर्स डे की तरह ही कुछ मनाया, जहां उन्होंने बारी-बारी से कार्य किए	यह पिता दिवस के लिए था और एलेन ने हमेशा इसका ख्याल रखा।	hi
+2	हालांकि पिट ने यह पहले ही बता दिया था लेकिन वह पालन करने के लिए बाध्य था।	पिट ने तुरंत आदेश का पालन किया।	hi
+1	वे घाव हो गए थे न्यू यॉर्क से बाहर शुरू कुछ रिश्तेदारों से मिलने के लिए, चचेरा भाई, और वे बस रुके थे और उन्हें नहीं पता था कि कैसे वापस लौटना है, इसलिए वह उनके साथ रहे।	वह कभी अपने परिवार से नहीं मिला |	hi
+0	हमें नहीं पता था कि U2 क्या है और किसी को भी U2 के बारे में कुछ नहीं पता था।	Hume nahi pata jo hawa me dekha usko kya bolte hai	hi
+1	आप भगवान जूलियन वेड हैं, मैं समझता हूं, उनकी कृत्रिम शुभकामनाएं थीं।	लॉर्ड जूलियन वेड ने एक गर्म और स्वागत करने वाला ग्रीटिंग प्रदान किया।	hi
+0	इसमें कुछ गलत नहीं है कि एक अभिभावक अपना सब कुछ किसी तुम्हारे जैसे व्यक्ति को उपहारस्वरूप देदे.	माता-पिता के लिए तब तक अपने बच्चों का समर्थन करना ठीक है जब तक कि वे इसे स्वयं करने में सक्षम न हों।	hi
+0	मुझे आशा है कि आपकी आस्था आखिर में राजा के आयोग को देने की मूर्खता को समझने लगती है क्योंकि यह मेरे सभी सलाहकारों के खिलाफ है।	जबकि प्रभुत्व बहुत बुद्धिमान था, मेरी सलाह सुनने की उसकी गंभीर गलती राज्य के अंत में जादू करेगी।	hi
+0	हां बिल्कुल, यह एक सक्रिय राज्य है,, यहां आप कुछ भी निष्क्रिय रुप से नहीं कर सकते और आप कोई भी अच्छा काम करने की उम्मीद नहीं कर सकते,  मुझे ऐसा नहीं लगता	मुझे लगता है कि आपको दिन में 10 घंटे इसमें अच्छा होने के लिए समर्पित करने होंगे।	hi
+0	खून ने सील तोड़ दी, और पढ़ा।	खून इंसान है|	hi
+1	तुम शिक्षक बोल रहे हो कि माता-पिता	Kya aap bata rahe ho ki students nahi to teacher ke sahyogi ne wo kiya ???	hi
+2	खून ने सील तोड़ दी, और पढ़ा।	मुहर टूट गई थी।	hi
+1	सोच-समझकर उसने अपनी स्वर्ण दाढ़ी को सहलाया।	उसका चेहरा साफ-मुंडा हुवा था।	hi
+1	लेकिन नहीं हम आमतौर पर आपको स्कर्ट और स्कर्ट और ब्लाउज या सूट या पोशाक से ही जानते हैं जो कि आप नीचे देखते ही हैं, इसलिए मेरे साथ घर पर काम करना अच्छा है क्योंकि मैं पैंट पहन सकती हूं	जब भी मैं घर पर काम कर रहा हूं तब भी मैं कपड़े पहनता हूं क्योंकि मुझे लहरी लगता है।	hi
+0	उसने जानना चाहा, कौनसा बेहतर तरीका?	उसे विश्वास था कि उसने सबसे अच्छा तरीका चुना है।	hi
+1	यह एक सम्माननीय सेवा है।	यह एक सम्मानजनक सेवा नहीं है, यह बहुत शर्मनाक है!	hi
+1	मेरे दोनों ओर कांटे बचे हैं |और हँसते हुए ब्लड उसके केबिन से निकल गए।	ब्लड चिल्ला रहा था |	hi
+0	बेशक, उन्होंने मुझे वहां पर सवाल किया, मैं क्यों गया ।	Unhone pucha ki mai dukaan kyu gaya tha	hi
+1	श्रोता अदृश्य हैं ; प्रत्येक दर्शक अपने छोटे-से कक्ष में है, जिसे बैठक कक्ष कहा जाता है |	आप दर्शकों को देख सकते हैं।	hi
+1	श्रीमान आप बहुत सभ्य नहीं हैं जैसा कि मैं पहले ही गौर कर चुका हूँ।	आदमी शांत और तर्कसंगत है।	hi
+2	लेकिन ... लेकिन ... इस जहाज पर ...? अधिकारी ने असहायता का इशारा कराया, और, अपने घबराहट पे समर्पण करते हुए, अचानक चुप हो गया।	जहाज पर क्या हो रहा था इसके बारेमे अधिकारी उलझन में था।	hi
+1	लेकिन अचानक,  यह देखने के लिए बुलाया गया था बाहर क्या उड़ रहा था।	हमें बाहर न देखने के लिए कहा गया था।	hi
+2	हम जो देखते हैं वह विवरण है।	विवरण दिखाई दे रहे हैं।	hi
+2	ये काफी अद्वितीय बात है की मैंने अपने व्यवसाय के १६ वर्ष विशेष कार्यक्रमों में बिता दी ।	मैं वर्षों से विशेष गतिविधियों में था।	hi
+2	तो हम आम तौर पर झील पर मेरे चाचा के कुटरे में मिलते हैं और झील पर कुछ दिन बिताते हैं।	हम दो दिनों के लिए कुटीर जाते हैं।	hi
+2	मुझे यह लगता है कि मैं इतना अच्छा अनुमान लगाऊंगा कि मैं वास्तव में दवाओं के परीक्षण पर मेरी सारी भावनाओं को हल नहीं किया है, मैं पूरी तरह से सीधे दवाओं का उपयोग करने पर विचार नहीं करता हूँ	Mujhe lagta hai ki drug testing ke liye maine apni bhavana kayam nahi ki hai	hi
+0	लिंडा काट्ज के एक मुखबिर द्वारा लिखित और दोबारा प्रकाशित की गई La Vida de un Bato Loco, केल के साहित्यिक उपयोग का एक अच्छा उदाहरण प्रदान करता है।	काट्ज़ ने मादक द्रव्यों का व्यापार  पर घिन किया ।	hi
+1	हाँ मैं नहीं करता, मुझे क्या लगता है कि दिसम्बरकि हारका कारण चन्द सौ मत थे	यह 99% मार्जिन से उत्तीर्ण हुआ।	hi
+2	15 कमांडर हमें कुछ करना चाहता है, और हमें कार्रवाई की ओर जाने के लिए कानून की भाषा का इस्तेमाल किया है	कमांडर को वो तरीका मिल गया जो वह हम से कराना चाहता है।	hi
+0	और दादी वो कहानी सुनाती थि कि कैसे उनकी बहन और उनके पति ने अगस्ता जाने का और सफेद होनेका निर्णय किया	Choti dadiji gori to nahi thi, lekin unko paathshala jane ki bahut icha thi	hi
+0	कानून न केवल किसी व्यक्ति को बल्कि पूरे समुदाय या राष्ट्र को मुक्ति दिलाता है।	कानून अमेरिका को साकार करेगा	hi
+2	इस कविता में, जोआकुन एक जहाज में रहता है और जहाज में मैक्सिको या दक्षिण अमेरिका के लिए जाता है, और वहाँ जो सर कटी हुई लाश है वह वास्तव में उसके अच्छे दोस्त रामन की है।	लाश रमन से सम्बंधित है	hi
+1	माफ करें कि हम आपको किसी भी बच्चे की देखभाल के लिए भुगतान करते हैं लेकिन हम वो जितना भुगतान करते हैं उतना नहीं करते हैं ।	चाइल्डकेयर आधार से मुक्त है।	hi
+1	और मैं वास्तव में उन्हें खोने से नफरत करता हूं लेकिन यह खतरों में से एक है, मुझे लगता है कि उह एक यार्ड है क्योंकि मैं	जब आप अपने स्वयं की ज़मीन के टुकड़े के मालिक होते हैं तो आपके पास अब हारने के लिए कुछ भी नहीं है।	hi
+1	आपको वहां रहने की जरूरत नहीं है	आपको उस सटीक जगह पर रहने की जरूरत है!	hi
+0	घोडा बिना दबाये यह फूटेगी नहीं।	ट्रिगर बम विस्फोट करता है ..	hi
+2	लेकिन वूल्वरस्टोन नही रुकेगा।	वोल्वरस्टोन कभी खत्म नहीं हुआ।	hi
+2	उन्हे टैग करो या कुछ भी तुम तुम करो सबकुछ अपने-आप करो, वे आपको बताते हैं की क्या करना है लेकिन सबकुछ आप स्वयं करते हैं।	आप आगे बढ़ें और खुद करें, वो आपको बताएंगे कि, करना क्या है.	hi
+2	आपको मुझे अपमानित करने का पूरा अधिकार है क्योंकि यदि मैं जानता कि आपके हाथ किस तरह गंदे हुए तो मैं उन्हें कभी भी नहीं छूता; यदि मुझे पता होता कि आप एक कातिल है  या उससे भी बुरी? वह उसे खुले मुंह से देखता रहा।	उन्होंने अपने हाथ में नहीं लेने का फैसला किया क्योंकि वे अपराध से दब गए हैं।	hi
+1	लेकिन ... लेकिन ... इस जहाज पर ...? अधिकारी ने असहायता का इशारा कराया, और, अपने घबराहट पे समर्पण करते हुए, अचानक चुप हो गया।	अपने डेक पर भ्रष्टाचार के कारणगुस्से में, कार्यालय मिनटों के लिए चीख उठा।	hi
+1	हम वाकई हमारी दुनिया एक साथ बना रहे हैं, हम सामजिक प्राणी हैं|	लोग दुनिया में नहीं रहते हैं यह केवल जानवरों और पौधों से बना है।	hi
+2	उसने अपने सामने खुले पृष्ठ पर एक पंक्ति में आराम की मांग की: levius fit patientia quicquid corrigere est nefas. इसे ढूँढा, लेकिन मुश्किल से यह मिल गया |	उसके सामने पृष्ठों में कुछ विदेशी भाषा थी।	hi
+2	यह एक सम्माननीय सेवा है।	यह एक प्रसिद्ध और प्रतिष्ठित सेवा है।	hi
+1	यदि आपके हाथ दबाव सूट से बहार निकलती है, आपके हाथ पांच गुना फुक जाएगी यदि विसंपीड़न होती है तो ।	आपकी त्वचा में कोई बदलाव नहीं होगा।	hi
+1	kya aap jangal shivir karte hai?	Kya tum indoor camp gaye the ?	hi
+1	क्या आपने फर्म को पढ़ा है?	क्या आपने सॉफ्ट पढ़ा है?	hi
+0	आह, अब, क्या वह वास्तव में नहीं कर सकता? वह रोया।	उसने पूछा क्योंकि वह पूरी स्थिति के बारे में चौंक गया था।	hi
+0	रीलोजो भी एक मजाक संबंध का वर्णन कर सकता है, जो पीछे और आगेसे एक मजाकिया है, जो हँसी के माध्यम से तनाव को दूर कर देता है और तनाव का कारण क्षणभर मे बिखेर देता है।	रिलाजो अर्थव्यवस्था का मजाक उड़ाता है।	hi
+1	4 और 5 वर्ष के बच्चों के लिए, प्रश्न मुख्यतः कथा आयोजन को संबोधित करते हैं (आगे क्या होगा?	बच्चे छः साल तक बात-चीत करना नहीं सीख पाते.	hi
+1	कमर, जहां सभी कल रात तो शांतिपूर्ण किया गया था में उसके बारे में, कुछ साठ पुरुष का एक frenziedly सक्रिय हलचल थी।	रात बहुत व्यस्त थी क्योंकि सड़कों पर लोगों को साथ में पैक किया गया था।	hi
+2	यह वास्तव में बुरा है	Wo bhayankar hai	hi
+2	लिंडा काट्ज के एक मुखबिर द्वारा लिखित और दोबारा प्रकाशित की गई La Vida de un Bato Loco, केल के साहित्यिक उपयोग का एक अच्छा उदाहरण प्रदान करता है।	लिंडा काट्ज़ एक नरक था।	hi
+0	भौतिक सहारा जीवन सहारा से भिन्न होता है, इसमे ऊँचाई कक्षों का संचालन होता है जो पाइलटों को उच्च ऊंचाई वाले कक्षों में 80 हजार फुट तक चलाते हैं, और उसे वापस लाते है।	ऊंचाई कक्षों में पायलटों का महीने में लगभग 20 बार परीक्षण किया जाना चाहिए।	hi
+0	हम जो देखते हैं वह विवरण है।	सभी को  देखने के लिए कानूनी कागज पर विवरण मुद्रित किया गया है।	hi
+0	ओग्ले ने कहा कि यह सत्य है,  लेकिन कुछ ऐसे भी लोग थे जो अभी भी  पाठ्यक्रम के खिलाफ खुले और स्पष्ट विद्रोह में थे।	पाठ्यक्रम उस क्षेत्र से भरा था जो अनदेखा छोड़ दिया गया था और इसलिए, यह बहुत खतरनाक था।	hi
+0	आर्थिक विकास खुद में ही ब्रह्मांड की रचनात्मकता का एक अभिन्न अंग है।	आर्थिक विकास ब्रह्मांड में पाए जाने वाली कई प्राकृतिक प्रणालियों की नकल करता है।	hi
+0	बचपन और पूर्वस्कूली वर्षों के दौरान सबसे आम कारण ओटिटिस मीडिया, या मध्य कान संक्रमण का दोहराया जाना है।	अधिकांश बच्चों को मध्य कान संक्रमण की परेशानी होती हैं |	hi
+2	मेरा सब गड़बड़ हो गया था |	मैंने गलती की।	hi
+1	यह अब वह थी जो उसके बचाव में थी, उसकी आवाज रोष से चिल्लाने लगी थी।	महिला बहुत खुश थी कि वह कुछ बोल नहीं सकी!	hi
+1	हाँ उपर हमारा है और हमारे गांवके सम्बन्ध बुरे हैं	हमारे पास यहां सबसे अच्छे सम्बन्ध  हैं।	hi
+2	वोलवर्स्टोन ने जो कहा है, उस का मुझ पर प्रभाव नहीं होगा।	वोल्वरस्टोन ने कुछ ऐसा कहा था जो किसी को फूला हुआ महसूस नहीं होने देता था ।	hi
+1	वह लड़की, वहाँ पर। उसने खुली बांह को तानकर उसकी और संकेत किया।	उसके पास उसके हाथ नहीं थे इसलिए उसने दूसरे को वह लड़की के पास उंगली दिखाने के लिए कहा।	hi
+2	यह अभी भी सांस्कृतिक क्षेत्र था, लेकिन उपनगरों अभी भी प्रमुख रूप था।	Most of the area was suburbia.	hi
+2	जैसा कि रेत ढेर होता जाता है, अंततः यह रेत के स्थीर कोण तक पहुंचता है और टेबल की सीमाओं तक भी फैलता है।	रेत एक ढेर में उठता है।	hi
+1	नहीं, सुबह केवल ही एक बार, और उसने कहा कि वह वापस कार्यालय में आएगी ।	उसने उल्लेख नहीं किया कि वह वापस लौटेगी या नहीं।	hi
+0	paudharopan poonjeevaad ka ant usi tarah aya hoga jis tarah Europe mein communism ka.	बागान पूंजीवाद गलत है।	hi
+2	अह, अहा यह, अह, गति तेज हो गई, तेज, और तेज जबतक की हमने विदेशियों को काम पर नही लगाया।	Wo aur tez hota gaya	hi
+0	यह एक साबुन रात के पहर के  सोप ​​ओपेरा की  तरह का है	शो हमारे जीवन के दिन की तरह बहुत है।	hi
+1	मं , और वो ऐसे ही नगर छोड़ दिए .और वो, उसने अपनी बहिन को फिर कभी नहीं मिलने की कोशिश नहीं की, कभी मिली भी नहीं ।	उसने हर दिन अपनी बहन को देखा।	hi
+2	मैं एक तरह से एक कंप्यूटर के मालिक है हमारे घर पर दो कंप्यूटर है लेकिन ना तो दोनों हमारा वो दोनों एक तरह से काम संबंधीत है।	मेरे घर में दो कंप्यूटर हैं।	hi
+2	मुझे नहीं पता था कि मैं क्या कर रहा था या कुछ भी, इसलिए वाशिंगटन में किसी निर्दिष्ट स्थान पर रिपोर्ट करना था ।	Mujhe kuch nahi pata tha kya karna hai, to mai Washington chala gaya, jaha mujhe report karne bola gaya tha	hi
+1	हो सकता है कि उसने सभी को बताया हो और मैं उस विशेष समय पर ध्यान नहीं दे रहा था।	उसने जो कुछ कहा वह मैंने सुना।	hi
+2	और इससे आपको भयानक लग रहा है।	यह आपको भयानक महसूस करता है।	hi
+2	और हा वह छिछोरा भी था, और हां जी हां वो जैसे वही था . और हा , इसी लिए बता रहा हु ताकि आप समजे , मुझे वह पहले से ही पसंद नहीं था , खैर ऐसे बोहोत कहानिया है।	मैं उसका प्रशंसक नहीं था।	hi
+2	हाँ आपको निश्चित ही ताररहित होना चाहिए	सहि, तुम्हारे पास जो था वो ताररहित था।	hi
+0	जब मैं खींचता हूं, जब उसे बाहर निकालने के लिए वह मेरे लिए चंदवा खींचता है, वह विमान के बाईं ओर दो उपकरणों को इंगित करता है जो वास्तव में उड़ान के दौरान पिघले थे।	Usse bahar nikalna mushkil ho raha tha	hi
+0	और उसने सच मे नहीं सम्झा	हां, वह भाषा बाधा के कारण स्पष्ट रूप से समझने में सक्षम नहीं थी।	hi
+0	मगर तुम्हे दुसरे तरह के खाने पसंद हैं	आपको विभिन्न जातीय खाद्य पदार्थों का प्रयास करने का आनंद लेना चाहिए।	hi
+1	पिट, जिसने तिमाही-डेक रेल से दृश्य देखे, वह हमें बताता है कि उसका राज एक कब्रगाह से भी भयानक था।	पिट ने कसम खाई कि उसे दृश्य की झलक नहीं मिली।	hi
+1	दक्षिण पश्चिम और कैलिफोर्निया में मैक्सिकन स्पैनिश लोककथाओं के एक प्रसिद्ध प्रस्तावक चार्ल्स एफ लुमिस (1859-1928) थे, एक स्व-सिखाए गए फोटोग्राफर, नृवंशविज्ञानी, संगीतविद्, पत्रकार और लॉस एंजिल्स में दक्षिण-पश्चिम संग्रहालय के संस्थापक थे।	चार्ल्स एफ लुईस पढ़ नहीं सका।	hi
+2	अब एक शोर करने वाला पड़ोसी एक डाकु के लिए सबसे अच्छा बाधाओं में से एक है भले ही पड़ोसी को शोर करने वाला कुत्ता भी एक बाधा है क्योंकि उन्हें पता है कि कुत्ता भोकने वाला है	लुटेरों को कुत्तें पसंद नहीं है।	hi
+1	सी आई ए ने चित्र उतार दिए , अगले ही दिन उसे यूनाइटेड नेशंस ले गए ।	सीआईए ने खुद के लिए फिल्म रखी।	hi
+1	उन्हें पाल में लो, जेरेमी, उसने चुपचाप कहा।	जेरेमी ने अपना ध्यान आकर्षित करने के लिए बहुत जोर से चिल्लाया।	hi
+2	ग्रेजोरियो कोर्टेज, जुआन कॉर्टिना और कैटिरिनो गाजा जैसे कई तेज़ानो लोक नायकों का टेक्सास रेंजरों के साथ उनके टकराव के कारण स्मारक बन गया।	ग्रेगोरियो कोर्टेज़ लोक नायकों में से एक है जो टेक्सस रेंजर्स का सामना कर रहा था।	hi
+0	और फिर वह बैठ gayi , और पता है आपको , वे फिर भी चैटिंग कर रहे थे, और उन्हें ये व्यक्ति नज़र आ रहा था, और ये व्यक्ति काफी तेज गति से चल रहे थे ।	वह अपने सहकर्मियों से दूर भाग रहे लड़के के बारे में बात करती रही ।	hi
+0	saath hi, kaise unka rahna mujhe madat kar sakta hai? aur jis tarah Pitt ne use javab nahi diya: tu dekh? usne sir hilate hue kaha	उसने कहा कि वह इसे देख सकता है लेकिन अंततः यह एक बड़ा सौदा नहीं था।	hi
+0	क्रिसमस के दिन बच्चे दरवाजे पर दस्तक देते हैं और घरवालों से Candy या छोटे खिलौनों की मांग करते हैं।	बच्चों को क्रिसमस दिवस पर कैंडी और खिलौने इकट्ठा करने के लिए बड़े बैग के पास ले जाया गया।	hi
+1	और वे प्रशिक्षित हेने के बाद बहुत अच्छा हो सकते है |	प्रशिक्षण पूरा करने के बाद वे कठोर और ठंडे हो जाते हैं।	hi
+0	नहीं, सुबह केवल ही एक बार, और उसने कहा कि वह वापस कार्यालय में आएगी ।	उसने कहा कि वह दोपहर के भोजन के लिए कार्यालय वापस आ जाएगी।	hi
+1	ऐसा लगता हैं हैं यह तेजी से बदतर हो रहा हैं |	यह बेहतर हो रहा है।	hi
+1	लेकिन मुझे विश्वास नहीं होता कि ऐसा कोई एल्गोरिथम उपकरण पूरा हो सकता है।	ये उपकरण किसी भी परिस्थिति में निर्दोष रूप से काम करते हैं।	hi
+2	हाँ मेरे पास वीसीआर है और मुझे इसे एक हि विफलता के कारण कई बार वापस करना पड़ा है और यह अभी भी एक असली अच्छी तस्वीर नहीं दिखा रहा है	मेरे पास एक वीसीआर है जो टूटता रहता है।	hi
+2	वे सीमा के भीतर हैं, रोता हुआ ओगले।	ओगल ने कहा कि उन तक पहुंचा जा सकता था।	hi
+2	श्रीमान आप बहुत सभ्य नहीं हैं जैसा कि मैं पहले ही गौर कर चुका हूँ।	आदमी असभ्य अभिनय कर रहा है।	hi
+0	हाँ मैने हमेशा कहा है कि अगर मैं मर गया तो कुत्ता बनके वापस आउँगा, यहि सबसे अच्छा तरिका होगा	मुझे लगता है जिनकी मौत हो जाती है उनमें से ज्यादातर लोग जानवर के रूप में वापस आते हैं।	hi
+1	और वे अच्छी तरह से जानते हैं कि उन्हें क्या मिलने वाला है और वे सुनिश्चित करते हैं कि वे उ	उन्हें पता नहीं है कि उन्हें कितने पैसे मिल रहे हैं।	hi
+1	और फिर मैंने उन्हें निकलते हुए सुना, इसी लिए मै वो काम ख़तम कर रहा हु जो मुझे करना चाहिए था ।	मैं इस काम को करने में परेशानी नहीं लूँगा.	hi
+0	क्या हमे पता है हम क्या कहने वाले हैं?	क्या आप जानते हैं कि वे हमें पढ़ने के लिए कौन सी स्क्रिप्ट दे रहे हैं?	hi
+2	और कभी कभी बाहर जाकर सलाद खाना अच्छा है |	मैं कभी-कभी सलाद खाना पसंद करता हूं।	hi
+1	15 कमांडर हमें कुछ करना चाहता है, और हमें कार्रवाई की ओर जाने के लिए कानून की भाषा का इस्तेमाल किया है	कमांडर जानता है कि वो जो कहता है उसे हम कभी नहीं सुनेंगे।	hi
+2	जब भी यह किया जाता है, प्रार्थनाएं पढ़ी जाती हैं|	प्रार्थनाओं के दौरान अन्य चीजें होती हैं।	hi
+2	उसने बढ़ने में कोई परेशानी नहीं दी, यहां तक कि भगवान जूलियन को भी, बेहतर प्रजनन की प्रवृत्ति का पालन ना करने का उसने उदाहरण दिया।	लार्ड जूलियन रोज, अच्छा बर्ताव पेश कर रहे थे, पर उन्होंने उठने का कष्ट नहीं उठाया |	hi
+2	iske vipareet, agar nae udaharanon ne prabhavit nahi kiya hota, to aam kaanoon mushkil se vikasit hota.	कानून थोड़े समय से आस-पास रहा है।	hi
+1	आप कब से मुख्य डेक को नियंत्रित कर रहे हैं? मैं कप्तान से अपने आदेश प्राप्त करता हूँ।	आदेश देने के लिए जहाज पर कोई नहीं था.	hi
+2	विवादों ने वर्ग विग्रह का रुप ले लिया।	उन्होंने अमीर बनाम गरीबों की लड़ाई लड़ी।	hi
+1	लेकिन वूल्वरस्टोन नही रुकेगा।	वूल्वरस्टोन पूरी तरह से घुस गया।	hi
+0	माफ करें कि हम आपको किसी भी बच्चे की देखभाल के लिए भुगतान करते हैं लेकिन हम वो जितना भुगतान करते हैं उतना नहीं करते हैं ।	शिशुपालन की लागत $२००० से अधिक है।	hi
+0	मैं अपने अनुसार वौल्वरस्टोन के विचारों से पूरी तरह सहमत हूँ।	मैं मानता हूँ कि पहले मैं वॉल्वरस्टोन से असहमत था।	hi
+0	22 इन कठोर कानून मानकों के बावजूद समय-समय पर अद्यतन मजदूरी स्तरों के साथ परिधान कार्यस्थलों में व्यापक उल्लंघन 1990 के दशक में आम हो गए हैं।	परिधान कार्यस्थलों में उल्लंघन की निगरानी करने के लिए पर्याप्त निरीक्षक नहीं हैं।	hi
+1	तुम नहीं, भगवान द्वारा! और आप इसे और क्या कहते हैं? लेकिन जमैका के महामहिम के उप-राज्यपाल के रूप में, मैं आपकी गलती को अपने तरीके से सही करने के लिए छोड़ दूंगा।	एक आदमी ने दूसरे से कहा कि उसने अपना काम पूरी तरह से किया है और कोई भी गलती उसकी ज़िम्मेदारी थी।	hi
+1	इंग्लैंड ने, उसने उसे सुधारने में सुधार किया	वह गलत था और उसने कुछ भी नहीं कहा।	hi
+0	तुम क्यों भागे फिर? उसने उसे अच्छी तरह से पूछा, उसके सामने सीधे, सभी सफेद और बहुत ही मूल रूप से उसके अप्राकृतिक ढांचे में खडे होते हुए।	उसकी मजबूती अप्राकृतिक लगती थी क्योंकि उसे पीठ दर्द था	hi
+2	और यह  लगता है कि यह एक छोटे से हास्यास्पद दस बीस साल के लिए पर जा सकते हैं |	Mujhe lagta hai ki Nuts rehna chahiye, kyunki wo zyada din chalenge	hi
+0	mujhe nahi pata, thik hai, aapse baat karke achha laga. susandhya.	मुझे लगता है कि मुझे पता है कि मैं ठीक क्यों नहीं हूं लेकिन मैं आपको बताना नहीं चाहता हूं।	hi
+0	ठीक है वे स्लॉट के माध्यम से निकल जाएंगे	उनमें से आसानी से स्लाइड किया जा सकता है।	hi
+0	ऐसी बातों के लिए कोई हिफ़ाज़त नहीं है,जैसे कि जब तक आप यह सुनिश्चित नहीं करना चाहते कि हमारा अस्तित्व डूब रहा हैं।	जब तक चालक दल तेजी से कार्य नहीं करता तब तक जहाज डूब जाएगा।	hi
+0	क्या आपने फर्म को पढ़ा है?	Kya apko padhne ke liye meri copy dun kya The Firm book ki	hi
+2	और दुसरी ओर हमने हर तरहके रकुन, पोसम और कछुवे खाए हैं।	मैंने कछुए, रेकून और पोस्सम जैसे असामान्य जानवरों को खा रखा है।	hi
+1	I... I भरोसा रखो कि उसके पास है,  कैलवर्ली ने शक और संदेश के साथ कहा।	चालाकी से स्पष्ट निर्णायकता के साथ बात की, यह जानकर कि वह निस्संदेह है।	hi
+2	यदि आपके हाथ दबाव सूट से बहार निकलती है, आपके हाथ पांच गुना फुक जाएगी यदि विसंपीड़न होती है तो ।	यदि आपका सूट के बाहर खुलासा हुआ तो आपका हाथ आकार बदल सकता है।	hi
+0	haa ham bilkul chup rahe aur vah uske liye ek tarah se apratyakshit janam din party tha.	वह आश्चर्यजनक पार्टी से प्यार करती थी।	hi
+1	मैं तुम्हें एक घंटे में वापस फोन करता हूँ, वे कहते हैं।	उसने कहा कि वे बोल रहे थे।	hi
+2	मेरे दोनों ओर कांटे बचे हैं |और हँसते हुए ब्लड उसके केबिन से निकल गए।	रक्त उसके केबिन के अंदर था।	hi
+1	सदस्यता तीस और चालीस व्यस्क पुरुष प्रति अध्याय (जिन्हें मोरादास कहा कहा जाता है) से बनी हुई थी और यह दो समान सदस्यों में विभाजित थी, जिन्हें हेर्मनोस  दिस्सिप्लान्तेस  (भाई जो अनुशासित करते हैं), और अधिकारी, जिन्हें हेर्मनोस डे लुज़ (रौशनी के भाई) कहा जाता था.	प्रत्येक अध्याय में सौ से अधिक अधिकारी कार्यरत थे।	hi
+1	जब भी यह किया जाता है, प्रार्थनाएं पढ़ी जाती हैं|	कोई भी प्रार्थना नहीं करता है।	hi
+2	वह हमारा नियंत्रण टावर हो सकता है, वह वेंस से सुझाव देता है, जो एक बुकशेल्फ़ द्वारा एक कोने में इंगित करता है	कोई वांस से बात कर रहा है।	hi
+2	तुम नहीं, भगवान द्वारा! और आप इसे और क्या कहते हैं? लेकिन जमैका के महामहिम के उप-राज्यपाल के रूप में, मैं आपकी गलती को अपने तरीके से सही करने के लिए छोड़ दूंगा।	एक व्यक्ति जो चिल्ला रहा है किसी और की गलती को ठीक करने का फैसला करता है।	hi
+2	आपके लिए शुभ दिन, महोदय, रक्त ने उन्हें सुखपूर्वक स्वागत किया।	रक्त ने आदमी को एक अच्छा दिन कामना की।	hi
+0	4 और 5 वर्ष के बच्चों के लिए, प्रश्न मुख्यतः कथा आयोजन को संबोधित करते हैं (आगे क्या होगा?	पांच साल पुराणों को गरीब कंज़र्वेशनलिस्ट मन जाता है	hi
+1	ओह उम नहीं लेकिन उनके पास ओकलोन पटरियों पर सूखी घास पर घोड़ों की दौड़ है	ओकलावन ट्रैक्स पर कोई दौड़ नही होती हैं।	hi
+2	बेशक, उन्होंने मुझे वहां पर सवाल किया, मैं क्यों गया ।	उन्होने मुझसे पुछा कि मैं वहाँ क्यों गया था।	hi
+1	भौतिक सहारा जीवन सहारा से भिन्न होता है, इसमे ऊँचाई कक्षों का संचालन होता है जो पाइलटों को उच्च ऊंचाई वाले कक्षों में 80 हजार फुट तक चलाते हैं, और उसे वापस लाते है।	शीर्ष-लंब का कक्ष बंद कर दिया गया है।	hi
+1	टेक्सास मे सिर्फ पचास हजार थे जब मैं वहाँ गया था	मैं पहले कभी भी टेक्सास नहीं गया था।	hi
+2	मं , और वो ऐसे ही नगर छोड़ दिए .और वो, उसने अपनी बहिन को फिर कभी नहीं मिलने की कोशिश नहीं की, कभी मिली भी नहीं ।	Usne apni behen ko uske baad kabi nahi dekha	hi
+0	आजकल शब्द बार्बोकोया का उपयोग गड्ढे में मांस पकाने के अर्थ के लिए किया जाता है और इसे गड्ढे में खाना पकाना भी कहा जाता है।	बारबाकोआ शब्द का प्रयोग प्राचीन मिस्र में किया जाता था।	hi
+1	ऐसी बातों के लिए कोई हिफ़ाज़त नहीं है,जैसे कि जब तक आप यह सुनिश्चित नहीं करना चाहते कि हमारा अस्तित्व डूब रहा हैं।	वे संभवतः किसी भी परिस्थिति में डूब नहीं सकते|	hi
+1	मेरे पास पर्याप्त जानकारी नहीं है।	मेरे पास ऐसी सारी जानकारी है जिसकी मुझे कभी भी जरूरत हो सकती है।	hi
+1	तो वह उसके बाद अगस्ता में रहे?	मैं जानता हूं कि उसने फौरन अगस्टा छोड़ दिया।	hi
+2	उन्हें पाल में लो, जेरेमी, उसने चुपचाप कहा।	वो बहुत हलके से बोल रहा था	hi
+1	nahi. Blood ne uske telescope ko band kar diya.	टेलीस्कोप के पास कहीं भी रक्त का कोई संकेत नहीं था।	hi
+0	कमर, जहां सभी कल रात तो शांतिपूर्ण किया गया था में उसके बारे में, कुछ साठ पुरुष का एक frenziedly सक्रिय हलचल थी।	एक ईवेंट होस्ट करने की वजह से यह शाम सामान्य से अधिक व्यस्त थी।	hi
+0	वह लड़की, वहाँ पर। उसने खुली बांह को तानकर उसकी और संकेत किया।	लड़की के बाल सुनहरे थे|	hi
+0	अह, अहा यह, अह, गति तेज हो गई, तेज, और तेज जबतक की हमने विदेशियों को काम पर नही लगाया।	रफ्तार मुझे नर्वस कर रही थी।	hi
+0	यदि प्रारंभिक विस्तार घातीय होती है, तो रेखीय को धीमा कर देता है, जैसा कि मुद्रास्फीति की अवधारणा में या शायद इस  क्वांटम दृष्टिकोण में, तब कण क्षितिज समस्या गायब हो सकती है।	एक घातीय प्रारंभिक विस्तार के लिए गणित जटिल है।	hi
+2	kya aap jangal shivir karte hai?	क्या तुम जंगल के समीप शिविर में गए थे?	hi
+1	फिर उन्हे अवगत करवा देना की अगर वे हमारी जलयात्रा में बाधा डालने का प्रयास करते  हैं, तो हम पहले डोक्सी को लटकायेंगे और इसके लिए बाद में लड़ेंगे।	जहाज को धीमा करने के लिए कुछ भी नहीं था।	hi
+1	युद्ध के बाद के विधिक आदेश में, संघीय संवैधानिक सिद्धांतों से प्राप्त परिणाम ही विद्यमान हैं।	राज्य संविधान सिद्धांतों से प्राप्त होने के बावजूद प्रीबेलम कानूनी आदेश के कई अलग-अलग परिणाम थे।	hi
+2	सोच-समझकर उसने अपनी स्वर्ण दाढ़ी को सहलाया।	उसके पास दाढ़ी थी जो सोने का रंग था।	hi
+2	उसने लार्ड जूलियन से याचना की है।	वह भगवान जूलियन से कुछ पूछना चाहता था।	hi
+0	क्योंकि परमेश्वर की छवि में उसने आदम को बनाया है।	एडम खुश था कि वह भगवान की छवि में बनाया गया था।	hi
+1	वो स्पानिश छापे का रात ब्रिड्जटाउण मे था।	ब्रिजटाउन पर कभी छापे नहीं पड़ते थे ।	hi
+0	वकील ही नहीं बल्कि पुलिस अधिकारी और जज और सभी कानून से जुड़े हुए पेशे सामान्य तौर पर	अधिकांश कानूनी व्यवस्था शामिल है, जिसमें पुलिस सबसे अधिक है।	hi
+0	बिलकुल और मे बहुत खुश था जब तक उन्होंने बताया की वो कोनसा कंपनी के साथ था।	मुझे वह कंपनी पसंद नहीं जिसके साथ वह है।	hi
+1	मैंने सौ नाशपातियां और एक हजार सेब के एंडोमेंट के साथ जीवन शुरू किया।	मेरे पास सेब की तुलना में अधिक नाशपाती हैं।	hi
+2	मैंने कभी पाया नहीं, केक के साथ कुछ नहीं कर सकता, इसीलिए	मैं केक का इस्तेमाल करने के लायक नहीं हूँ |	hi
+2	एस्पिनोसा ने 1920 के दशक में कैलिफोर्नियों से कई रोमांस एकत्रित किए।	एस्पिनोसा को रोमांस एकत्र करने में रुचि थी।	hi
+1	उह-हह, सब ठीक अब अलविदा	चलो बात करते रहें।	hi
+2	इंग्लैंड ने, उसने उसे सुधारने में सुधार किया	उसने(लड़की) ने उसके(लड़के) की मुश्किल का समाधान कर दिया|	hi
+0	लेकिन यह पुराने वुल्फ के बारे में होगा कि वह आपको देखना चाहता है।	वह आज आपसे ओल्ड वुल्फ के बारे में मिलना चाहता है	hi
+2	इस समय उनकी उपस्थिति, और वुल्वस्टस्टोन के साथ उनके विवाद की प्रकृति पर विचार करना  बेहद शर्मनाक था।	तथ्य यह है कि वोल्वरस्टोन के साथ लड़ाई के बाद उसे यहां शर्मिंदा माना गया था।	hi
+0	हाँ मैं नहीं करता, मुझे क्या लगता है कि दिसम्बरकि हारका कारण चन्द सौ मत थे	इसे खारेज किया गया क्योंकि लोग बाहर निकलना और मतदान करना नहीं चाहते थे।	hi
+1	क्या आप आपके गदर और राज-द्रोह और कोर्ट मार्षल का बकवास बंद करेंगा । उसके टोपी मे रक्त फैला दिया और अन्जाने मे बैठ गया ।	ब्लड ने अपनी टोपी  पहनी और बिना कुछ कहे कमरे से चला गया|	hi
+2	ऐसे ही छोटी सी बातें भने मेरा कर्म पर एक बड़ा अंतर बना दिया ।	मैं कुछ हासिल करने की कोशिश कर रहा था।	hi
+0	Nakala ya kikatiba ya 1787 ilikuwa imesema haki ya wamiliki wa watumwa kuokoa watumwa ambao wamepotea katika eneo la uhuru.	Haki ya kurejesha watumwa kutoka sehemu huru haikuwa haki iliyokubaliwa na wengi.	sw
+2	Bato ni neno la karne ya zamani ambayo inaweza kutafsiriwa kama guy au dude.	Bato (au vato) ni neno la Kihispania ambalo linamanisha  jamaa au mlimbwende.	sw
+0	Mambo hayakuwa yamemwendea vizuri katika majuma mawili yaliyopita  tangu kukubalika kwa Tume ya Mfalme.	Tume ya Mfalme ilikuwa cheo cha kifahari na majukumu mengi.	sw
+0	Alafu nikamsikia akitoka, hivyo namaliza nilichotakiwa kufanya.	Ninafanya kazi niliyopewa asubuhi ya leo.	sw
+2	vizuri oh vizuri hilo ni la kuvutia je, uh ulienda shule ili kujifunza jinsi ya kufanya hivyo	Ulijifunza wapi jinsi ya kufanya hivyo?	sw
+1	Tafadhali tulipie kumtunza mtoto na tusipie mingi kuliko vile tunapoata.	Huduma ya watoto ni bure.	sw
+0	Alimsimamia nahodha wa Damu na kumpigia saluti, kama ilivyokuwa ada yake. Lakini tabasamu ambalo lilisimamisha tumbo lililokaza la askari lilikuwa la huzuni.	Angeweza kuona Captain Blood.	sw
+2	Unajua, faida nyingine niliyopata , sikuichukua kwa manufaa, angalau kabla kampuni kubwa wakati mwingine hulipia masomo.	Wakati mwingine makampuni makubwa hukusaidia kulipia elimu.	sw
+0	Yeye hakusema wakati tena, kwa hiyo alinipata hapo yu nikisisitiza , na sijui hata wakati itakapohitajika.	Niliogopa nitapitwa na onyesho kwa sababu sikujua wakati.	sw
+1	lakini kwa upande mwingine tumekula panya na kasa wa kila aina	Mimi sili nyama ya aina yoyote.	sw
+1	Hakuweza kuenda.	Alikuwa wa kwanza kualikwa na alipendezwa sana.	sw
+1	Hakika, ni vizuri, miendo zikawa za kasi na kasi, na kasi mno, mpaka tukahamisha nje ya nchi.	Ilionekana kukawia milele.	sw
+2	Labda aliambia kila mtu na sikuwa natilia maanani kwa wakati huo.	Sikumskia alipoambia kila mtu	sw
+2	Mwingi wa Tejano shujaa wa watu , kama Gregorio Cortez, Juan Cortina na  Catarino Garza alijulikana kwa mazungumzo na askari wa Texas.	Gregorio Cortez ni moja wa mashujaa waliopambana na Texas Rangers.	sw
+2	Kuja kujua ilikuwa ni ndege aina ya U2 lakini hatukuweza, hatungeweza kusema neno moja kuhusu kile kilichokuwa; hakuna chochote kwa wake zetu, watoto au mtu yeyote.	Hatukuruhusiwa kuongea kuhusu U2	sw
+1	Utarejelea mara moja, na uende na wafanyakazi wako, au.... Lakini Ogle, mwenye nguvu ya mien na ishara, alimzuia.	Ogle alimuacha aendelee kuongea.	sw
+1	Mwenyewe, mimi kabisa ni wa maoni ya Wolverstone.	sijawai kusikia mtu anayeitwa Wolverstone.	sw
+2	Sitaki kuenda katika SS ya tatu, hiyo ni kundi la manowari la mkakati wa msaada la tatu.	Mimi sitaki kuwa sehemu ya tatu SS.	sw
+0	Lakini alikuwa, unajua, kwa njia nyingi, kama mwana wa mmiliki wa mimea kwa sababu alikuwa mwana wa mtu huyu ambaye alikuwa na mali nyingi.	Baba yake alimiliki ekari 2000 za shamba.	sw
+0	Uanachama ulijumuisha  kati ya wanaume wazima thelathini na hamsini kwa sura (inayoitwa moradas) na waligawanyika kuwa wanachama wawili wa kawaida, wanaoitwa hermanos disciplantes (ndugu ambao wanawaadhibu), na maafisa, waliwaita hermanos de luz (ndugu wa mwanga).	Vitengo hivi vilikuwa na jukumu la kugeuza watu wa asili katika Amerika ya Kati.	sw
+1	Alafu nikamsikia akitoka, hivyo namaliza nilichotakiwa kufanya.	Siwezi kusumbuka kufanya mambo haya.	sw
+0	Baadaye nilirudi kwenye dawati langu.	Nilirudi na kuketi kwa sababu mkubwa wangu aliniambia hivyo.	sw
+2	unasema walimu au wazazi	Je, ni walimu au wazazi?	sw
+0	Alafu, hakuelewa kabisa.	Alas, hakuweza kuelewa wazi kutokana na kizuizi cha lugha.	sw
+2	Kama mchanga hupanda, hatimaye hufikia pembe ya mchanga na pia inafikia mipaka ya meza	Mchanga huinuka katika rundo.	sw
+2	Najua sifai kukufananisha na kitu mtu huko Texas ambako utokako, lakini udhibiti wa utumizi bunduki huko ni jambo ambalo halipendwi sana huko nafikiria.	Udhibiti wa bunduki huenda sio maarufu huko Texas.	sw
+0	Mafumbo ni burudani na vinaelimisha pia.	Vitendawili ni ngumu sana kutatua	sw
+1	Walimchua Joe nao na bibi akasema ilikuwa wakati wa huzuni sababu unajua kila mtu alikuwa anamkosa Joe na hawakujua cha kufanya.	Kila mtu alikuwa na furaha sana!	sw
+0	Kuna sababu mbona hakukuambia?	Mbona hangekuambia kuhusu mtoto.	sw
+1	Niamini, nashukuru.	Kwa dhahiri sina shukrani kwako.	sw
+1	Naanza maisha na majaliwa ya mapera mia moja na matofaa elfu moja.	Nina pears zaidi kuliko apples.	sw
+0	Ha! Wolverstone alitoa kicheko kidogo cha furaha.	Wolverstone walidhani kwamba ilikuwa ya kupendeza.	sw
+1	Na wewe ni shetani yupi? alilipuka hatimaye.	Alinung'unika kwa kimya wakati wote.	sw
+2	Je, utaacha mazungumzo yako ya uongo na uasi na mahakama-ya kijeshi? Damu alivaa kofia yake, na akaketi chini bila kubishana.	Blood alikuwa na kofia aliyovaa kabla ya kuketi.	sw
+1	Ndiyo sababu tunahisi kudanganywa na kuta za mashimo, milango hafifu, na balustrades zisizo imara.	Tunathamini kuta zenye mashimo na milango hafifu.	sw
+1	Katika San Antonio utendaji wa Los Pastores katika Mama yetu wa Kanisa la Guadalupe unaendelea tangu 1913.	Utendaji huo huwa haufanyiki San Antonio.	sw
+2	Mwenyewe, mimi kabisa ni wa maoni ya Wolverstone.	Nakubaliana kabisa na Wolverstone kuhusu hii jambo.	sw
+1	Katika sura ya mwisho, nafanya hatua zaidi ya uhusiano wa kati pamoja na maajenti huru kuzingatia ulimwengu wenyewe.	Katika sura ya mwisho, ninajadili ni mara ngapi mtu anafaa kulamba Tootsie Roll Pop ili kufika katikati.	sw
+2	Alafu nikamsikia akitoka, hivyo namaliza nilichotakiwa kufanya.	Nafanya kile ambacho natarajiwa kukifanya leo.	sw
+2	Lakini alikuwa, unajua, kwa njia nyingi, kama mwana wa mmiliki wa mimea kwa sababu alikuwa mwana wa mtu huyu ambaye alikuwa na mali nyingi.	Baba yake alikuwa na mali nyingi.	sw
+1	Lakini Wolverstone hangeacha.	Wolverstone ilitamatishwa.	sw
+0	Na ingawa anafaa kujaribu, kuwa na uhakika kwamba maafisa wake hawatasita kufanya nyingine isipokuwa kumpinga.	Maafisa wake wanamheshimu.	sw
+0	Na kwa hiyo, serikali haikuwajibika kwa watu binafsi waliokataa haki za kijamii kwa wananchi weusi.	Watu binafsi walikuwa weupe.	sw
+0	Mojawapo ya faida tunazozipata ni nafasi ya kuzuru.	Kusafiri ni sehemu yangu ninayoipenda.	sw
+0	Katika uzimawa mandhari, picha, mabadiliko, muungano, na uteuzi zinaweza kuwa na mpango kuvuta idadi ya watu juu kufikia upeo ya uzima wa hali ya juul	Katika uzima wa hali ya juu, jamii zinazobadilika zina uwezekano mkubwa zaidi wa kuishi.	sw
+2	Mojawapo ya faida tunazozipata ni nafasi ya kuzuru.	Kusafiri ni tunuku moja tunayopata.	sw
+1	Ninalofikiria juu yako linaweza kuwa jambo ndogo sana kwako, bwana. Hiki kilikuwa kiharusi cha kunyang'anya silaha.	Unapaswa dhahiri kujali kuhusu kile ninachofikiria juu yako.	sw
+2	Alitafuta faraja katika mstari katika ukurasa ambao haukuwa umeandikwa mbele yake:  levius fit patientia quicquid corrigere est nefas, alitafuta bali kwa kidogo tu, hakupata.	Kulikuwa na lugha ya kigeni katika kurasa mbele yake.	sw
+0	Muuaji--mimi?alisema mwishowe.	Hakukuwa ameua mtu yeyote.	sw
+2	Acha mimi nipitie hili pia.	Nitachunguza jambo hili kwa kina.	sw
+0	Naam lakini sidhani tutaweza kufanya hivyo kwa sababu huwezi kupata vituo vya kawaida mitaani na hizo ni habari ambazo tunavutiwa sana	Bei hiyo ni nzuri sana.	sw
+1	Nahofia kuwa hilo jina ni Anderson alikuwa yule mugwana aliye pigania tiketi uhuru dhidi ya Reagan na.	Anderson alimshinda Reagan	sw
+2	Na, ni kama na ni kama njegere mwenye macho meusi  lakini sidhani ni mnyororo	Black Eyed Pea inapendeza, nadhani kuwa ni ya ushirika.	sw
+1	Najua sifai kukufananisha na kitu mtu huko Texas ambako utokako, lakini udhibiti wa utumizi bunduki huko ni jambo ambalo halipendwi sana huko nafikiria.	Sidhani udhibiti wa bunduki ungekasirika watu huko Texas.	sw
+1	Nyanyangu alikuwa na mazoea ya kusema hadithi ya jinsi dadake na bwana wa dadake walivyoamua wataenda mjini Augusta na wjifanye wazungu.	Dada yake  bibi alikuwa mweupe na alihamia Texas.	sw
+2	Riba ni asilimia ishrini.	Je, asilimia ya riba ni 20?	sw
+0	CIA iliufunguanisha ile sinema na kuipeleka ka Muungana wa Kimataifa(UN) siku iliyofuata.	Kitengo cha CIA ilidhani UN ilihitaji kuona filamu hiyo bila kupoteza wakati.	sw
+0	Kuna jambo la kushtua linalomngoja mwongo huyu katika pwani ya Royal. Damu ingekuwa imeingilia kati kwa hio, bali Julian alimzuia.	Baadhi ya maeneo ambayo yanamilikiwa na Bwana Julian, ni Port Royal, mji wa biashara kubwa zaidi katika kanda hio.	sw
+0	Vipengele hivi vya juu vya utaratibu wa vifaa vya molekuli hutokea kwa sababu uteuzi wa asili una uwezo wa kutenda juu ya mali ya pamoja ya molekuli wakati mali hizo za pamoja zinaongeza uwezo wa kubadili.	Hivi vifaa vya kimolekuli hasa hutumiwa kutoa sumu za ulinzi.	sw
+0	Ndio daima nimesema nikifa nitarudi kama mbwa, ambayo ingekuwa njia bora ya kuwa.	Nafikiria watu wengi wanaokufa hurudi wakiwa wanyama.	sw
+2	Waweza kuapta pesa nyingi mno kwanza ikiwa unahusika na zile bidhaa murwa.	Unaweza lipwa sana kwa hilo.	sw
+1	Labda aliambia kila mtu na sikuwa natilia maanani kwa wakati huo.	Nilisikia kila kitu alichosema.	sw
+0	La Vida de Locato Bato, iliyoandikwa na mtoaji taarifa wa Linda Katz na kuzalishwa katika kazi yake, hutoa mfano mzuri wa matumizi ya fasihi.	Katz alisimulia kuhusu biashara ya dawa.	sw
+0	Ndio vizuri sio kisheria kubeba bunduki ya mkononi huko Texas lakini sivyo, unaweza kuwa nayo nyumbani kwako	Ni kinyume cha sheria kuwa na bunduki katika umma huko Texas.	sw
+1	Mambo madogo yaliyoleta utofauti mkubwa kwa mambo niliyokuwa nikijaribu kuyafanya.	Sikujaribu hata kufanya hivyo.	sw
+1	Ninachukia sana kupoteza ,nafikiri ni moja yapo ya Hazard.Yadi kwa sababu...	Unapokuwa na kipande chako cha ardhi huna chochote cha kupoteza tena.	sw
+0	San Francisco Ballet itakuwa na msimu wake mkuu katika nyumba ya Opera katika majira ya machipuko, bali pia katika maonyesho wakti wa Disemba.	Katika majira ya baridi na joto, kikundi cha densi cah San Francisco hupumzika.	sw
+2	Ninachukia sana kupoteza ,nafikiri ni moja yapo ya Hazard.Yadi kwa sababu...	Sitaki kuipoteza lakini hiyo ndio inayoweza kutokea unapokuwa na ua.	sw
+2	Kwa ghafla aliitana kujua ni nini kilichjokuwa kinapaa.	Tulipaswa kuangalia kile kilichokuwa kinaruka.	sw
+1	Maisha yanaweza kuwa magumu sana, alisema.	Alikaa kimya akinung'unika kuhusu urahisi wa maisha.	sw
+1	Na kama ingekuwa na mwendo wa dharura na kuendelea hivyo hivyo, ingeenda 'whish,' na kana kwamba ingeng'oa kichwa chako.	Itaongezeka mara moja tu.	sw
+0	kwa mfano wake Mungu alimuumba Adamu.	Adam alifurahi kwa kuwa aliumbwa kwa mfano wa Mungu.	sw
+1	Yangu ni njia rahisi na salama.	Njia yangu ni ngumu zaidi.	sw
+2	Kisha wajue kwamba kama wanajaribu kuzuia safari yetu, basi tutatupa kwanza na tupigane nayo.	tutajaribu kupambana nayo tukingoa nanga	sw
+1	Mshiriki anayetajika wa tamaduni za kihispania za Mexico katika Kusini Mashariki na California , Charles F. Lummis (1859-1928), mpiga picha aliyejifunza, mwimbaji, mwanahabari, na mwanzilishiwa wa makumbusho ya Kusini Mashariki iliyo Los Angeles.	Charles F. Lewis  hangeweza kusoma.	sw
+0	Moyo wako ni kam ulikuwa umepangwia kugundua upandaji wa tetemeko la tetemeko la ardhi.	Vitubu vya tetemeko la ardhi vinaweza kusikika na kila mtu.	sw
+1	Msaada wa kiikolojia hutofautiana na msaada wa maisha kwa kuwa anaendesha vyumba vya urefu ambavyo huendesha wapiganaji hadi futi 80,000 katika vyumba vya juu vya juu, na kumleta tena.	chumba cha urefu umesitishwa.	sw
+0	Na bado leo, udhanifu wa kawaida ni kwamba maafisa wetu wanaweza kuaminika na madhubuti ya kirangi na kikabila ya ramani ya nchi ya marekani.	Udhanifu kuwa viongozi  wana ukabila  na ukafiri sio wa kweli.	sw
+1	naam, unajua singejali sana ikiwa walikuwa na shirika la um linalofadhiliwa	Itanifanya niwe na hasira nikigudua kuwa walifadhili kampuni hio.	sw
+0	lakini kwa upande mwingine tumekula panya na kasa wa kila aina	Nimejaribu aina nyingi za wanyama kwa ajili ya chakula.	sw
+2	Nyanyangu alizaliwa mwaka wa 1910, alikuewa msichana mdogo.	Nyanya yangu alizaliwa miaka 10 baada ya mwanzo wa karne.	sw
+1	Mafumbo ni burudani na vinaelimisha pia.	Vitendawili vinachosha na havikufunzi chochote.	sw
+1	Sisi kwa kweli twaiunda dunia yetu pamoja, sisi wakosoaji	Binadamu hawaishi kwenye dunia. Ina wanyama na mimea pekee.	sw
+0	Ninalofikiria juu yako linaweza kuwa jambo ndogo sana kwako, bwana. Hiki kilikuwa kiharusi cha kunyang'anya silaha.	Huenda ukajali kile ninachofikiria juu yako.	sw
+0	Aliruhusiwa kuamini ingawa kwa upofu kuwa ilikuwa mwenye neema, maridadi na mchanga Lord Julian Wade wa St. James, ambaye kwake alikuwa amejitolea kwa muda wote.	Yeye na Lord Julian Wade walishiriki busu usiku wa jana.	sw
+0	Bado alikuwa mle ndani.	tulidhani alienda kumbe alibaki	sw
+0	sio wanasheria tu lakini maafisa wa polisi na majaji na taaluma yote ya kisheria kwa ujumla	Mfumo halali unaohusika huwa wa polisi.	sw
+0	Alitafuta faraja katika mstari katika ukurasa ambao haukuwa umeandikwa mbele yake:  levius fit patientia quicquid corrigere est nefas, alitafuta bali kwa kidogo tu, hakupata.	Lugha iliyosimuliwa katika kurasa ni lugha ya watu wenyeji wa nchi.	sw
+2	Vaquero au Buckaroo ni wa magharibi na babe ni wa kusini.	Mchunga mifugo huyo ametoka eneo la kusini.	sw
+0	Na kisha ukipata vitu vyote vimeingizwa unaweza kuendelea kutoka hapo.	Unaweza kuendelea baada ya kuingiza habari kwenye hifadhidata.	sw
+1	Tukiwa na wengine, tukiwa na marafiki tumefanya kinachokaribia siku kuu ya akina mama ambapo walichukua zamu.	Ilikuwa ya siku ya kusherekea Wababa na Ellen kila wakati aliishugulikia.	sw
+1	Sitaki kuenda katika SS ya tatu, hiyo ni kundi la manowari la mkakati wa msaada la tatu.	Sikuweza kusubiri kwenda Tatu SS.	sw
+1	Kwa watoto wa miaka 4 na 5, maswali mara nyingi huzungumzia taratibu za hadithi (Nini kitatokea baadaye?	Watoto kawaida huanza kuzungumza wakiwa miaka 6.	sw
+2	Kwani aliishi tena Augusta kabla ya hayo?	Je, alibaki Augusta?	sw
+2	Espinosa alikusanya riwaya mingi kutoka Californios miaka ya 1920.	Espinosa ana nia ya kukusanya mahaba.	sw
+0	Natumai uongozi wako unaanza mwishowe kwa kuona makosa ya kupea kamisheni ya mfalme kwa mwanaume kama huyo kwa vile ni kinyume na ushauri wetu.	Hata kama mtawala alikuwa mwerevu sana, kosa lake kubwa la kutosikiliza shauri langu litasababisha mwisho wa ufalme.	sw
+0	Tafadhali tulipie kumtunza mtoto na tusipie mingi kuliko vile tunapoata.	Huduma ya watoto inachukua zaidi ya $2000 zaidi ya msingi.	sw
+0	ha, vyema, hilo ni safi , ilikuwa halisi, lenye kuchekesha, Nilienda katika semina ilyokuwa haki, ilikuwa semina ya sputniki , ilikuwa safi sana na ilikuwa ya wanawake pekee yao.	Kulikuwa na watu wengi waliohudhuria semina ya satellite.	sw
+1	Wanachama wa klabu za gari hujulikana kama clubbers, na wanashindana kwa nyara, huendesha misafara ya gari, na mara nyingi hushiriki katika matukio ya kuchanga pesa.	wanachama wa vilabu vya magari hawaendeshi	sw
+1	Lakini siamini chombo chochote cha algorithmic kinaweza kua kamili.	Vifaa hivi vyafanya kazi barabara katika kila hali.	sw
+2	Bado alikuwa mle ndani.	Bado alikuwa katika eneo.	sw
+0	unasema walimu au wazazi	Unasema nini kuhusu wazazi na walimu?	sw
+2	mkataba wa hivi karibuni uliopatiwa Virginia ameshtaki au ana kesi dhidi ya uh Gratin kuzuia ujenzi kwa sababu ulipatikana kinyume cha haki au kitu kama hicho unajua	Mikataba imekuwa yenye fujo sana.	sw
+0	Hamna jambo mbaya kwa mzazi anezi tunukia kila kitu ako nacho kwa mtu lkama wewe.	Ni sawa kwa wazazi kuwasaidia watoto wao mpaka waweze kufanya hivyo peke yao.	sw
+0	Limpiar ina maana ya kusafisha na limpia ni sawa na barrida.	Ingawa barrida na limpia ni sawa, kuna mambo mengi ambayo yanawatofautisha.	sw
+1	na hivyo nilifurahi sana	Hiyo ilikuwa zaidi ya kuchukiza!	sw
+2	Hii ilikuwa, hii ilikuwa siku ya kuogofya mno.	Siku hiyo kweli ilinitia hofu sana.	sw
+1	Aye, alisema Ogle, huo ni ukweli. Ila kulikuwa na wengine ambao bado walikuwa wameweka wazi pingamizi lao dhidi ya kozi hio.	Ogle hakumtaja mtu yeyote ambaye hakupenda kozi ya sasa.	sw
+0	Wolverstone amejitenga mwenyewe kwa urahisi mbele ya nahodha wake nitamwona Kanisa Askofu katika Jahannamu au nimewadanganya kwa ajili yake. Na yeye akatupa, labda kwa madhumuni ya msisitizo.	Askofu Colonel amefanya jambo kumfanya Wolverstone adui wake.	sw
+2	tahadhari kuhusu jinsi habari za kitaifa zinavyoathiri mtaa	wasiwasi kuhusu eneo kuathiriwa na habari za taifa.	sw
+2	Kinyume chake, kama matukio mapya hayakuwahi kutuma mawimbi, sheria ya kawaida itakuwa vigumu kubadilika kabisa.	Sheria imekuwapo kwa muda sasa.	sw
+2	Hakuna kusubiri kwa jambo kama hilo isipokuwa unataka kuhakikisha hakika ya kuzama.	Kuna njia yao kuzama.	sw
+0	Hadithi ntakayoisema leo ni kuhusu babayangu na tamaduni tofauti alizokumbana nazo alipoenda Marekani.	Mimi nitakuambia kilichotokea wakati baba yangu alihamia hapa kutoka Mexico.	sw
+0	Steve Harris, mwana biolojia wa molekuli kutokaTexas alikuwa ametutembelea.	Steve alikuwa akitembelea California ili kujifunza sampuli mpya.	sw
+0	Lazima uwe ulikuwa na yenye haina kamba.	Pengine umekuwa na moja iliyo na kamba unayoweza kutumia au la.	sw
+2	Sina habari za kutosha.	Nahitaji kupata habari zaidi kuhusu hii jambo.	sw
+2	Ni huduma ya kuheshimiwa.	Ni huduma tofauti na inayojulikana.	sw
+0	Alijiona kuwa kama mbwa katika hekaya ambayo alikuwa ameangusha dutu ili kukamata kivuli kinachompiga chenga.	Hadithi hiyo ni nzee sana.	sw
+1	Kwa hili shairi, Joaquan anatoka na kutoroka kwa meli kuelekea Mexico au Marekani Kusini, na mwili ambao umekatikakatika ni wa rafikiye wa dhati Ramen.	Katika shairi, Joaquan aliishi kwenye gari lake.	sw
+2	Mimi, kwa upande mwingine, huwa na tamaa kama vile nitakuwa na furaha zaidi na mapea mengi kuliko tufaha.	Ningependa mapepi zaidi ya tufaha.	sw
+1	unasema walimu au wazazi	Je, unasema wanafunzi au usaidizi wa mwalimu ulifanya hivyo?	sw
+1	Naam. Hilo ni jambo la busara mno.	Hapana, nadhani kwamba ni yenye wazimu na haina maana.	sw
+1	Huo unaweza kuwa mnara wetu wa kudhibiti, alielezea Vance, akielekeza kwenye kona ya safu ya vitabu	Mtu anapuuza Vance.	sw
+0	Wanachama wa klabu za gari hujulikana kama clubbers, na wanashindana kwa nyara, huendesha misafara ya gari, na mara nyingi hushiriki katika matukio ya kuchanga pesa.	Wanachama wa chama cha wauza magari.	sw
+2	Matarajio mantiki yalikua,ndani, na nje ya jaribio la kutaka kuelewa halisia ya biashara katika soko la hisa.	Watu walikuwa wanajaribu kusoma hali ya kuuza kwa soko las hisa.	sw
+2	Kwa uzingatifu aliipapasa ndevu yake ya dhahabu.	Alikuwa na ndevu ambazo zilikuwa rangi ya dhahabu.	sw
+2	Steve Harris, mwana biolojia wa molekuli kutokaTexas alikuwa ametutembelea.	Steve alikuwa mwanabaolojia kutoka inje ya mji.	sw
+0	Naam, hakuna mtu yeyote hapo atakayenisaidia.	Siwezi kufanya hivyo peke yangu.	sw
+2	Ilinibidi kuanza mafunzo katika kozi.	Ilibidi nianze kujitayarisha.	sw
+1	Aliruhusiwa kuamini ingawa kwa upofu kuwa ilikuwa mwenye neema, maridadi na mchanga Lord Julian Wade wa St. James, ambaye kwake alikuwa amejitolea kwa muda wote.	Ana upendo wa kupumbazika kwa bwana Julian Wade, licha ya umbile lake la kutetemeka.	sw
+0	Na wewe ni shetani yupi? alilipuka hatimaye.	Mtu huyo alikuwa kweli shetani mwenyewe.	sw
+1	vizuri sisi ni dhahiri kuwaweka maskini na downtrodden na wasio na msaada	Tunawahimiza na kuwaimarisha kila siku.	sw
+2	vizuri sisi ni dhahiri kuwaweka maskini na downtrodden na wasio na msaada	Hatua zetu zinawazuia kuboresha.	sw
+0	Mambo madogo yaliyoleta utofauti mkubwa kwa mambo niliyokuwa nikijaribu kuyafanya.	Nilijaribu kumaliza bango langu kwa darasa na kalamu mpya za rangi zilisaidia.	sw
+0	Ilinibidi kuanza mafunzo katika kozi.	Nililazimika kujifunza jinsi ya kumaliza kozi ya vikwazo.	sw
+1	ndio, walikuwa na kundi zima la vitu ambavyo vilivunja wakati mmoja	Hakuna vitu zao zilizovunjika.	sw
+2	Sijashtushwa na kile ambacho Wolverstone amesema.	Wolverstone amesema jambo ambalo halikufanya mtu kujisikia kupungua.	sw
+0	miaka michache iliyopita nilikuwa mwanafunzi huko na niliishi muhula mmoja nikisoma huko London	Shule za London ni bora.	sw
+1	Baadhi ya watu wanaweza amini hadithi hiyo. Alirusha gumba la dharau kwa wanaume wa kiuno ambao daraja zao zilikuwa zinaongezwa kwa kasi kufuatia kukuja kwa wengine kutoka kwa utabiri.	Vikundi vya wanaume vilikuwa vinapungua, kwa kuwa kila mtu alikuwa akienda kwenye eneo la kuishi melini kwa chakula cha jioni.	sw
+2	Uh-huh oh yeye ni mkubwa yeye unajua yeye ana tabia ya kukaa na mtu yeyote na kucheza na mtu yeyote	Yuko tayari kuketi ama kucheza na mtu yeyote.	sw
+2	ha, vyema, hilo ni safi , ilikuwa halisi, lenye kuchekesha, Nilienda katika semina ilyokuwa haki, ilikuwa semina ya sputniki , ilikuwa safi sana na ilikuwa ya wanawake pekee yao.	Nilienda warsha iliofanywa na Satelite.	sw
+1	Bila shaka, waliniuliza huko, kwa nini nilienda.	Waliuliza kwa nini nilikaa nyumbani.	sw
+1	Riba ni asilimia ishrini.	Hakuna riba.	sw
+0	Kwa hakika tunachotaka ni njia ya kuelezea mchakato halisi	Tunahitaji lebo ili kujua kuwa shirika linafanya vizuri.	sw
+1	Uhusiano kati ya haki na uhuru umetupiliwa mbali.	Haki na uhuru havihusiani kamwe.	sw
+0	Ndio kweli, kwa sababu ilikuwa imepitia kwa kisiagi.	Ningependa kama jambo hili halingefanyika kwasababu inakata taama.	sw
+2	Kwa upande mwingine, kitu lazima kiwe kwenye mashine kwa dakika, kisha mashine kwa dakika, na kadhalika.	Kitu hicho kinafaa kuwa juu ya mashine zaidi ya sekunde moja.	sw
+0	Lakini Pitt, ingawa alishiriki, aliharakisha kusikiliza.	Pitt ni jina la mbwa mwenye utiifu sana.	sw
+2	Hata hivyo, nampigia tena Ramonakwa sababu nilikuwa na swali. Alafu nikamweleza kwamba acha niharakishe kwa sababu nilikuwa na swali kuhusu jambo fulani ambalo nilikuwa nafanya.	Nilitaka kumwuliza Ramona swali.	sw
+1	hasa ni hali ya kazi sio kitu ambacho unaweza kuwa na aina wajua kuwa bila kushiriki haswa na kutarajia kufanya mazuri yoyote kweli sidhani	Ni sawa iwapo hautaichukulia kwa uzito	sw
+0	Oh ulikuwa mto wa nyoka,yenye nyoka mingi sana.	Mto wa nyoka una kasa wengi wenye hasira	sw
+1	Na jambo la kusherekea ssiku yake ya kuzaliwa tuliamua kuifanya kisiri.	Hatukufanya chochote kwa siku yake ya kuzaliwa.	sw
+2	Waliuliza maswali machache na mimi akawajibu na wakasema, Chukua mzigo wako na uondoke huko mara moja, na uje kwenye anwani unayotakiwa wakati ulipowasili Washington.	Waliniambia kuchukua mifuko yangu.	sw
+2	Ninahitaji kufanya kitu kwa ajili yangu.	Kuna kitu ambacho nitajihitaji ifanyika.	sw
+0	Kuzingatia msingi wa ndume watatu au wanne, na wachache wa wanachama, palomilla ilikuwa kitengo muhimu cha kijamii ambacho kiliwapa nafasi salama kwa vijana kuwacheka na kujieleza wenyewe.	Vijana walioko palomillas walifanya utani kuhusu farasi.	sw
+1	Na hao walikuwa watu elfu mbili na mia tano nilipo jiunga na	Kumekuwa na watu karibu mia moja tu ambao waliwahi kujiunga.	sw
+1	Moyo wako ni kam ulikuwa umepangwia kugundua upandaji wa tetemeko la tetemeko la ardhi.	Moyo wako hauwezi gundua tetemeko la ardhi.	sw
+0	Ndiyo sababu mimi sikuhitimu chuo kikuu, lakini sijawahi, sijawahi kusoma yoyote ya vitabu nilivyotakiwa.	Niliacha chuo katika mwaka wa 2002.	sw
+2	7), na wale wenye mahitaji madogo (kadiri ya vitengo 1,300 kila wiki) na mahitaji ya kubadilika ya juu (CV= 1.3).	Kuna vikundi viwili ambavyo zinafafanuliwa na utofauti wa uhitaji.	sw
+0	Yeye ni kama, Lakini unahitaji kuangalia hapa, angalia hapa, ananipa kama maeneo matatu tofauti ya kuangalia kwenye kompyuta.	Aliniambia kabrasha zingekuwa kwenye eneokazi.	sw
+1	22 Licha ya viwango hivi madhubuti vilivyotungwa sheria 'na viwango vya mshahara vilivyosasishwa mara kwa mara,' ukiukwaji mkubwa katika maeneo ya kazi ya nguo umekuwa kawaida katika miaka ya 1990.	Viwanda vyote vya nguo na maduka yalifungwa kwa kudumu mwaka 1980.	sw
+2	Na kisha ukipata vitu vyote vimeingizwa unaweza kuendelea kutoka hapo.	Unaweza kuendelea baada ya kuingiza kila kitu.	sw
+2	lakini kwa upande mwingine tumekula panya na kasa wa kila aina	Nimekula wanyama wasio wa kawaida awali kama vile, kobe, rakuni na possami	sw
+1	7), na wale wenye mahitaji madogo (kadiri ya vitengo 1,300 kila wiki) na mahitaji ya kubadilika ya juu (CV= 1.3).	Kundi ambalo halihitaji mengi ina wastani ya chini ya mia tatu.	sw
+0	Mimi, kwa upande mwingine, huwa na tamaa kama vile nitakuwa na furaha zaidi na mapea mengi kuliko tufaha.	Heri niwe na mapera 10 badala ya tufaha 10.	sw
+0	Katika sura ya mwisho, nafanya hatua zaidi ya uhusiano wa kati pamoja na maajenti huru kuzingatia ulimwengu wenyewe.	Katika sura ya mwisho nashangaa ni kiasi gani ulimwengu unawajibika kwa utaratibu wa tabia ya kibinadamu.	sw
+1	Kama mchanga hupanda, hatimaye hufikia pembe ya mchanga na pia inafikia mipaka ya meza	Mchanga huwa laini na nyororo.	sw
+2	Tulikwenda, na imekuwa mbio tangu wakati huo.	Imekuwa ni mashindano kila wakati tangu tulipoenda katika.	sw
+1	Lakini alikuwa, unajua, kwa njia nyingi, kama mwana wa mmiliki wa mimea kwa sababu alikuwa mwana wa mtu huyu ambaye alikuwa na mali nyingi.	Baba yake hakumiliki kitu chochote katika maisha yake.	sw
+2	um, vizuri, mimi ni kama nina miliki kompyuta, tuna kompyuta mbili nyumbani lakini hakuna hata mmoja ambayo tunamiliki kwa hakika, um, zote mbili ni kama zinahusika kwa kazi na	Nina kompyuta mbili nyumbani kwangu.	sw
+1	Hapana. Damu ilifunga darubini yake.	Hapakuwa na alama yoyote ya damu karibu na darubini.	sw
+0	Angalia. Ilifanya kwangu.	mabomu za mashua hazikuchungwa na mtu	sw
+0	Na jambo la kusherekea ssiku yake ya kuzaliwa tuliamua kuifanya kisiri.	Alipenda sherehe la mshangao.	sw
+1	Alikuwa katika Port Royal kwa majuma mawili, meli yake haswa ikiwa karibu na kitengo sasa kwenye kikosi cha Jamaica.	Hakuwa amewahi kufika Port Royal.	sw
+1	Na bado leo, udhanifu wa kawaida ni kwamba maafisa wetu wanaweza kuaminika na madhubuti ya kirangi na kikabila ya ramani ya nchi ya marekani.	Hakuna dhana ya kawaida leo.	sw
+2	Tatizo la unyonyaji katika mahusiano ya ngono ya kujitolea kwa muda mrefu imekuwa na sisi.	Kunaweza kuwa unyonyaji katika mahusiano ya ngono ambayo ni ya kwa hiari.	sw
+2	Wataje ama kwa kila kitu unachofanya peke yako watakuambia lakini utakifanya peke yako tu.	Baada ya kukuambia nini cha kufanya, unaendelea na kufanya hivyo mwenyewe.	sw
+2	Muuaji--mimi?alisema mwishowe.	Baada ya kupumzika alimsema muuwaji, mimi.	sw
+2	Aye, alisema Ogle, huo ni ukweli. Ila kulikuwa na wengine ambao bado walikuwa wameweka wazi pingamizi lao dhidi ya kozi hio.	Wengine hawakupenda fikira la mkondo wa kisasa na waliikataa kwa wazi.	sw
+2	Umesoma the Firm	Ulisoma The Firm?	sw
+0	Kwa uzingatifu aliipapasa ndevu yake ya dhahabu.	Alikuwa akikua ndevu zake kwa miaka.	sw
+0	badala ya mimi labda ingekuwa kuangalia kitu uh labda V sita	Nadhani V6 ndiyo njia bora ya kwenda.	sw
+0	Aliangalia juu kwa mshangao, kisha akaketi akizungumza naye kwa mtazamo wa kufungia.	Alikuwa mwerevu kuliko alivyotarajia.	sw
+1	Alikuwa mshambuliaji wa watoto na alipenda kuzurura. Sikumpenda lakini wajua hizo ndio hadithi zangu.	Alikuwa mwaminifu sana na mzuri.	sw
+2	Nishamwambia, Nilijaribu kumweleza kuwa nimekatishwa tamaa kwani sikuwa na habari yote niliyohitaji.	Nilimwambia nilihitaji taarifa zaidi.	sw
+0	Baadhi ya watu wanaweza amini hadithi hiyo. Alirusha gumba la dharau kwa wanaume wa kiuno ambao daraja zao zilikuwa zinaongezwa kwa kasi kufuatia kukuja kwa wengine kutoka kwa utabiri.	watu wengine wanaamini hadithi ya malkia aliliwa na joka	sw
+0	Ninachukia sana kupoteza ,nafikiri ni moja yapo ya Hazard.Yadi kwa sababu...	Kuwa na yadi si burudani na michezo tu bali huwa naifurahia.	sw
+1	Uh-huh oh yeye ni mkubwa yeye unajua yeye ana tabia ya kukaa na mtu yeyote na kucheza na mtu yeyote	Anakataa kuketi karibu na mtu yeyote ambaye hajui.	sw
+2	Siwezi fanya chochote na keki.	siwezi kutumia keki	sw
+0	Je! wewe hufanya kambi ya jangwa	Nilidhani ulienda kwenye kambi.	sw
+0	Tulikwenda, na imekuwa mbio tangu wakati huo.	Mbio ilianza tangu tulipokuwa na miaka nne.	sw
+0	Ikiwa ni kosa kumpa Kapteni Damu  asilimia ya faida, kosa sio langu.	Mhasibu alipigwa kalamu kutokana na uwezekano wa kuwepo kosa.	sw
+1	wow, labda napaswa kwenda kuiona katika ukumbi na kufanya mpango wa kwenda nje kwa chakula cha jioni baadaye ili tuweze kukaa na kuzungumza juu yake	sitaki kwenda kuiona filamu hyo tena kabisa.	sw
+1	Lakini Pitt, ingawa alishiriki, aliharakisha kusikiliza.	Pitt alipuuza kabisa alichoulizwa.	sw
+2	Sheria haitoi mtu binafsi lakini jumuiya au taifa kwa ujumla.	Sheria itaokoa jamii na taifa	sw
+2	Naam lakini sidhani tutaweza kufanya hivyo kwa sababu huwezi kupata vituo vya kawaida mitaani na hizo ni habari ambazo tunavutiwa sana	Hatutaki kwa sababu tunapenda habari za mitaa na haipati vituo vya ndani.	sw
+1	badala ya mimi labda ingekuwa kuangalia kitu uh labda V sita	Sita wahikuzingatia V6.	sw
+0	Itakuwa kama mbwa mwitu mzee anayetaka kukuona.	Anataka kukuona leo kuhusu Old Wolf.	sw
+0	Alikuwa yeye sasa ambaye alikuwa akimtetea, sauti yake ikitetemeka kwa ghadhabu.	Yule mwanamke alikuwa amechoshwa na tabia yao mbaya.	sw
+2	Sijali kama hujui chochote kuhusu hilo.	Sina wasiwasi kama  haujui chochote kuhusiana na jambo hilo.	sw
+1	达尔文在这里就已经开始了生命。	达尔文只关注研究死亡的东西。	zh
+0	你立刻回到那里，带上你的船员，否则……但是Ogle，带着粗暴的神色和手势，打断了他。	奥格尔很生气。	zh
+2	15 指挥官希望我们做些事，并用法律语言来推动我们采取行动。	指挥官找到了一种让我们做他希望我们做的事的方法。	zh
+0	嗯，这很有趣，嗯，我想我比较喜欢有趣的节目	我可能不得不观看这个新的喜剧节目。	zh
+0	统计平均可以成为生物体秩序的来源吗？	有一种理论认为，统计平均是有机体中有序的来源。	zh
+0	他们不想被囚禁。	他们因为与近期的抢劫有关而被拘留。	zh
+1	我们不知道U2是什么，也没有人知道关于U2的事情。	我们知道U2的一切！	zh
+0	我们的父亲总告诉我们不要叫他们做动物。	我们的爸爸说他们是奇物，而不是动物。	zh
+1	老太太以前常说她姐姐和姐丈是如何决定要搬到奥古斯塔城里去，并且被当做白人看待。	奶奶的妹妹是白人，搬到了德克萨斯州。	zh
+1	你是Julian Wade勋爵，我明白，他刻薄地问候道。	朱利安韦德勋爵提供了热烈欢迎的问候。	zh
+0	从，呃，大急流城回来了，我们去那里出席其中一个儿子的毕业礼	大急流城是个美丽的地方。	zh
+0	所以当他们告诉她她必须和这个男人回家时，她说，和他一起回家?	他们告诉她，她必须和那个男人睡觉。	zh
+2	德博拉·利普施塔特在她的著作“拒绝承认大屠杀”中写道，我们不应该公开辩论不可接受以及明显虚假的陈述，因此她提出了像政府审查一样强大的补救办法。	利普斯塔特写了一本书。	zh
+1	而我认为会非常有趣的是我们会怎样处理这件事，我意思是说，我们将会改变代表我们的人	我只知道改变那些代表我们的东西会很无聊，也不值得，所以我们甚至不应该尝试去改变。	zh
+1	我们继续前进，从那以后就一直是比赛。	首先，从来就没有任何比赛。	zh
+1	嗯，没错，速度更快，更快，更快，直到我们在海外部署。	它似乎需要永远。	zh
+2	开心到晕了！ 也许你会为自己解释一下？ Wolverstone有去吗？	你应该解释一下自己！ 沃夫斯通发生了什么事？	zh
+2	第三个特征是状态空间中流动的趋同与发散，表征有序与混沌状态的特征，这对我们未来的讨论可能是最重要的。	在我们未来的讨论中最重要的事情就是第三个功能。	zh
+2	这就是我大学没有毕业的原因，但是我读过的书没有哪本是我应该去读的。	我没上完大学。	zh
+1	“  那个女孩，那里。”他伸出一只裸露的手臂指向她。	他没有手臂，所以他叫别人向那个女孩指出方向。	zh
+0	美国人的两个思想 “保护国旗和庆祝言论自由” 最终可能会变成是美国人的矛盾。	美国人都尊重国旗。	zh
+2	中央情报局卸载了这部电影，第二天把他们带到了联合国。	中情局把这部电影带到了联合国。	zh
+1	我已经告诉他了，我试图向他解释，我沮丧是我没有得到我需要的消息。	我告诉他不想听其他东西。	zh
+2	发生什么事情都会让他越来越兴奋。	这让他更加兴奋。	zh
+0	它有点像肥皂剧，是一种夜间肥皂剧类型的东西	这个节目很像我们生活的日子。	zh
+1	嗯-哼你是否发现你对呃呃新闻网络范围报道的表现感到呃呃失望或高兴	我想你永远不会看网络新闻。	zh
+2	因此，Shannon对消息空间中一条信息所占用的信息量进行了对数运算，并将其乘以源发送消息的概率。	香农对这条信息进行了计算分析。	zh
+1	它有点像肥皂剧，是一种夜间肥皂剧类型的东西	这是个非常严肃的新节目。	zh
+2	部分原因是，有158个零件，我们必须打破它，然后再拼回来，打破它，永远不会犯错误。	我们需要拆了重装	zh
+0	另外，哦，让我看看这个。	我会看看这些报告。	zh
+1	哦，不，但是他们在Oaklawn跑道上进行赛马比赛。	奥克劳恩赛道上没有比赛。	zh
+1	和别人一起，我们和一些朋友们一起来了个母亲节外出，他们轮流做	这是父亲节，Ellen总是不会忘记。	zh
+2	他来自希腊，他来自希腊的一个叫Tokalleka的小村庄，我相信他是在1969或1970年来美国的，并且他很快就结婚了。	他是希腊人。	zh
+0	麦克金非常懊恼，不仅输了，而且还落后于霍华德及Cauldwell三个位置。	Howard和Cauldwell是女性。	zh
+2	确切地说，这是一个活跃的状态，你知道，这不是那些可以被动参与其中，从而可以期望做一些好事的情况，我真的不这么认为。	我认为你需要致力于做得更好。	zh
+1	随着沙的堆积，它最终达到了沙的其他角落，并且延伸到了桌子的边缘。	沙子总是平坦而光滑。	zh
+1	我大约一小时后再打给你，他说。	他说他们讲完了。	zh
+1	请参阅Wallis和Varjabedian的当代照片，以了解新墨西哥州北部仍然存在的古老住所。	新墨西哥的古代莫拉达教堂现在没有已知的好照片。	zh
+1	我对你的看法对你来说无关紧要，先生。这是一种解除武装的举措。	你一定要关心我对你的看法。	zh
+2	先生，我已经注意到，你不是很有礼貌。	这个人行事不文明。	zh
+2	然后让他们知道，如果他们试图阻碍我们的航行，那我们将先挂上doxy，然后出击。	我们一旦启航就会尝试去克服它。	zh
+1	但是考虑一下面包和黄油。	只考虑葡萄干和玉米片，没有别的。	zh
+1	等等！他转过身面对船长，他把他的手放在他的肩膀上并微笑，有一些依依不舍。	负责人很生气。	zh
+2	在你打我屁股之前，为什么不先让我喝一杯巧克力牛奶？	我想要一杯巧克力牛奶。	zh
+2	但是…但是…上这艘船……?那个军官做了一个无助的手势，他非常困惑，突然沉默不语。	军官被船上发生的事弄糊涂了。	zh
+1	在那个花园的主要大道上，棕榈和檀香木的边缘，他看到了独自一人的Bishop小姐。	花园里绝对没有任何人。	zh
+2	我派人去找你了，Blood船长，因为我刚收到的一些消息。	在发给你之前，我收到了一些新闻，布拉德船长。	zh
+2	这是一项光荣的服务。	这是一项杰出和卓越的服务。	zh
+1	开心到晕了！ 也许你会为自己解释一下？ Wolverstone有去吗？	Wolverstone就在这里。 没有必要解释。	zh
+1	我必须开始训练了。	我不需要任何准备。	zh
+0	我身上还有一两个刺。布拉德笑着回自己的小屋了。	血因为快乐而笑了。	zh
+0	我从来没见过，也不知道为什么，除非只是表，表，表达出需要了解你一直在做什么和任何事情。	我没有看到这个人在星期一干什么。	zh
+2	他会把纸撕毁，放在沙子里，在烟灰缸的沙子里，将它点燃，然后像那样搅动灰烬。	他会把纸烧掉。	zh
+1	然后让他们知道，如果他们试图阻碍我们的航行，那我们将先挂上doxy，然后出击。	没有什么能够放慢船的速度。	zh
+2	我在那里的时候德克萨斯州只有55000。	我曾在德州。	zh
+2	关心国家新闻如何影响地方	担心地方会受到国家新闻的影响。	zh
+0	皮特站在后甲板栏杆后观看了这一幕，告诉我们他的爵位就像绞刑上的牧师一样严肃。	Pitt从来没有像他以前那样把他的领主视为坟墓。	zh
+0	我们已经开始建立数学模型，揭示了这个等级组织的一些情况=尽管目前最好的模型有它们的出色之处，但也有其微妙的限制。	关于这个组织的知识还有很多。	zh
+1	就是我能坚持住的原因。	那正是我如何脱钩的。	zh
+2	种植园资本主义的结束可能像欧洲共产主义的消亡一样安全。	种植园资本主义结束了。	zh
+1	依照神的形象他造了亚当。	夏娃令亚当用自己美丽的图画。	zh
+0	上校接受了它，并且迟迟地鞠躬，取下他宽大的帽子。	上校接受了纽约市市长的奖章。	zh
+2	这并不是说好的建筑就只是功利性的。	这并没有得出结论，好的架构只是为了功能而设计的。	zh
+0	事实上，我们所需要的部分是在非平衡世界中描绘真实过程组织的方法。	我们需要标签，以便我们可以看到组织在哪里做得很好。	zh
+1	我今天要讲的故事是关于我的父亲和他搬到美国时的文化多样性。	我不想谈论我的父母。	zh
+0	是的，他们有一大堆同时坏掉的东西	一些被打碎的东西是贵重物品。	zh
+1	在本章的最后一节，我转向了另一个我称之为自然游戏的谜题。	我无法在本章中谈及自然的游戏。	zh
+1	对这样的事情是没必要逆风停船的，除非你十分想确定我们被击沉。	无论如何，他们都不会沉下去。	zh
+2	不要以为我乐意接受它。	我不愿意接受。	zh
+0	达尔文在这里就已经开始了生命。	达尔文开始关注鱼类。	zh
+1	他在皇家港口过了两个星期，他的船几乎是现在在牙买加中队的一个部队。	他从未去过Port Royal。	zh
+2	你不需要留在那里。	你可以离开。	zh
+2	她还在那里。	她还在附近。	zh
+2	我不知道从德克萨斯来，我不知道，我不应该做固定模板，但说到枪支控制，我想离我们不远了。	枪支管理在德克萨斯可能不受欢迎。	zh
+2	实际上问题结束了。	问题的解决方案或多或少都在那里。	zh
+2	嗯嗯，是的，所以你要注册下，就会有一个报警系统，以防盗贼出现，切断你的电话线	有一个迹象表明你有一个警报。	zh
+1	那里不过是一片沙漠，跑道上有灌木。	那是一片热带雨林。	zh
+2	但突然间，我们被召集去看正在飞行演出。	我们应该看着飞行的东西。	zh
+0	他的腰昨晚一直都很安生，有一群六十多岁的男人疯狂地活跃着。	今晚比平常要忙，因为举办了一个活动。	zh
+2	是的有一种说法叫，有个住的地方，我不知道。	很高兴有一个地方住。	zh
+2	但是，呃，考虑下吧。	这是需要思考的问题。	zh
+0	她喜欢，但你需要看看这里，看这里，然后她指了指三个电脑屏幕上的不同的地方。	她告诉我这些文件夹会放在桌上。	zh
+0	生物圈已经扩大，事实上，或多或少地持续分解，进入到邻近不断扩大的任何可能。	这个生物圈成长到了1000英里。	zh
+1	而且，呃，如果它飞升而且不停飞升的话，就会“嗖”地飞过去，好像会把你的脑袋扯下来一样。	它只会激增一次。	zh
+1	嗯哼好吧，我要说的是他们可以剪掉一些其他区域的，你知道我不剪的，他们不会一定要把它从那里剪掉	他们正好没有别的东西可以切割了!	zh
+2	呃，你对科罗拉多斯普林斯的报纸处理当地的值得关注的新闻有何看法	对于报纸对本地新闻的处理你的意见如何？	zh
+0	你的心恰巧感知了地震的到来。	每个人都能感受到地震的前兆。	zh
+1	啊所以我非常享受	这太恶心了！	zh
+1	Limpiar意味着清洁，并且Limpia类似于Barrida。	Limpiar的意思是跳舞。	zh
+0	那么，好吧，也许他不会像他想象的那样容易找到我。	他认为抓住我会很简单。	zh
+2	奇怪的是，我们是否不关注世界上最深刻的，在我们的所有人的面前特征之一呢？	我们没见过如此奇妙的事吗？	zh
+1	“ 稳住，老狼！稳住！”铁血船长告诫他。	松手！ 铁血船长向老狼喊道。	zh
+0	在内战后的法律秩序中，同样的结果源于联邦宪法原则。	由于巴巴多斯的联邦宪法原则，后期的法律命令以同样的结果而告终。	zh
+1	他若有所思地抚摸着自己的金色胡子。	他的脸刮的很干净。	zh
+1	我们这些小生物真的把我们的世界建立起来。	人们不在那个世界上生活，那里只由动植物组成。	zh
+2	另外，哦，让我看看这个。	我会仔细看一看。	zh
+0	是的，在德州携带手枪是不合法的，但是不，不是，你可以在家里拿	在德克萨斯州当众持枪是重罪。	zh
+2	这是特別的，因为我，呃，花了，呃，约16年的时间在特别活动中度过我的职业生涯。	我做了几年的特别活动。	zh
+2	是的，这是我们的，我们各农村间的关系非常糟糕	我们这边信号不好。	zh
+0	嗯，没错，速度更快，更快，更快，直到我们在海外部署。	速度让我感到紧张。	zh
+1	在进行这件事时会同时诵祷。	没有人祈祷。	zh
+1	他来自希腊，他来自希腊的一个叫Tokalleka的小村庄，我相信他是在1969或1970年来美国的，并且他很快就结婚了。	他来自爱尔兰。	zh
+0	Charles F. Lummis(1859-1928)是美国西南部和加利福尼亚州的一个著名的墨西哥西班牙民间传说的支持者，他是一位自学成才的摄影师、人种学家、音乐学家、记者，同时也是洛杉矶西南博物馆的创始人。	Charles F. Lummis很有趣。	zh
+0	如果授予铁血船长权力是一个错误，那么错并不在我。	可能是因为出错，而导致会计师最近被解雇了。	zh
+2	啊，现在，你真的不能吗?他哭了。	他喊了一个问题。	zh
+0	我从来没做过蛋糕，所以……	我希望能拿蛋糕做点什么，但是无处用它们。	zh
+1	他们停止了跟这家交朋友，因为他们决定了当白人。	他们每天都继续拜访。	zh
+2	观众是无形的;每个观众都在他的小隔间里，这小隔间也叫做客厅。	你无法看到观众。	zh
+2	无论如何，所以我完成了，今天6点半到家，那就是我的一天。	今天6点半以后，我没有做任何重要的事情。	zh
+1	法律不是救赎个人，而是救赎整个社会或整个国家。	要获得偿还，个人应该诉诸于法律。	zh
+0	如果他这样做的话，我认为不会起一点儿作用，他的主人严肃地说道。	他的选择是购买12只鸡或3只牛。	zh
+2	他从他面前的开放页面上的一段中寻求安慰: 耐心减轻了悲伤可能无法治愈的痛苦。他寻求它但几乎没有发现它。	他面前的页面中有一些外语。	zh
+0	但突然间，我们被召集去看正在飞行演出。	我们应该要看着飞机。	zh
+0	它似乎只会越来越糟糕	它正在慢慢恶化。	zh
+2	在学前以及小学的经历一直会影响现在	学龄前儿童总是想着今天。	zh
+1	对于我自己来说，我完全支持Wolverstone的意见。	我从没听说过叫沃尔弗斯通的人。	zh
+2	那里不过是一片沙漠，跑道上有灌木。	该地区有很多枯萎的树叶。	zh
+0	看看有人为我准备的。	这艘船的大炮目前无人操控。	zh
+2	人生可能复杂得可怕，他叹气道。	他发出了辞职的信号。	zh
+0	但是考虑一下面包和黄油。	想想奇迹面包和挑战黄油。	zh
+0	第三个特征是状态空间中流动的趋同与发散，表征有序与混沌状态的特征，这对我们未来的讨论可能是最重要的。	我们未来的讨论中没有什么重要的事情。	zh
+1	他惊讶地抬起头来，然后坐着看着她。	他低头看着地面。	zh
+0	嗯，有时候出去吃沙拉很好	我偶尔喜欢在甲板上吃素食色拉。	zh
+0	噢，这是蛇河，噢，蛇河里面有很多蛇	蛇河有很多鳄龟。	zh
+0	明显自愿性关系的剥削问题由来已久。	剥削问题正在好转。	zh
+2	你不，上帝呀！你还把这个叫做什么？但是作为牙买加的副州长，我将以我自己的方式来纠正你的错误。	一个正在大喊大叫的人决定要更正其他人的错误。	zh
+1	但是他对他们做了一些不一样的事	他们和所有其他人做的一样。	zh
+2	然后我听到他离开，所以我还在做我必须要做的事情。	我正在做我今天需要做的事情。	zh
+2	我已经告诉他了，我试图向他解释，我沮丧是我没有得到我需要的消息。	我告诉他我需要更多的信息。	zh
+1	好吧，他们有好吃的卤汁面条吗？	烤宽面条是我尝试过的最糟糕的东西。	zh
+0	但我的工作是在它和救生工具上放降落伞，然后装载它，开始到海外的一个地点。	我把箱子运到了日本。	zh
+1	在学前以及小学的经历一直会影响现在	学龄前儿童和小学生们往往对未来充满了各种梦想。	zh
+2	抱歉，我们支付任何你知道的托儿费用，但我们不会支付他们不对头的费用	总的来说托儿所很便宜。	zh
+2	我的生命始于一百个梨和一千个苹果。	我有点东西吃。	zh
+2	几年前，我还是那里一名学生，并且去伦敦学习了一个学期。	几年前，我在伦敦学习了一个学期。	zh
+2	我从来没见过，也不知道为什么，除非只是表，表，表达出需要了解你一直在做什么和任何事情。	我没有看到它。	zh
+0	他唯一一只眼的眼角扫见一条从同伴身上脱开上升的灰绸饰边。	他只剩下一只左眼。	zh
+1	我没有足够的信息。	我有所需要的所有信息了	zh
+2	我们得到的好处之一就是旅行	旅行是我们得到的一个福利。	zh
+1	在某种程度上, 理性预期的增长是为了试图了解证券交易所的实际交易。	没有人对证券交易所的实际交易感兴趣。	zh
+0	无论如何，所以我完成了，今天6点半到家，那就是我的一天。	我花了一天的大部分时间来处理一个复杂的客户账单问题。	zh
+1	在参观完这些收藏品后，爬上这座小山，来到专员的房子，在那里你可以看到周围的海岸线和船坞的其他地方的美景。	你无法从山顶上看到海岸。	zh
+1	我们知道我们将要说什么吗	我知道我们不知道我们会说什么。	zh
+2	那么，好吧，也许他不会像他想象的那样容易找到我。	我可能并不像他想的那么容易应付。	zh
+0	是的有一种说法叫，有个住的地方，我不知道。	能有一个地方住就是梦想成真了。	zh
+0	我，反过来，刚好也有一些渴望，比如如果梨子比苹果多我会更开心的。	我更愿意要10个梨而不是10个苹果。	zh
+0	我在那里的时候德克萨斯州只有55000。	80年代时我住在德克萨斯州。	zh
+0	它不会在没有触发的情况下爆炸。	触发器使炸弹爆炸…	zh
+0	Limpiar意味着清洁，并且Limpia类似于Barrida。	虽然barrida和limpia相似，但有很多东西可以将他们区分开来。	zh
+0	这并不是说好的建筑就只是功利性的。	好的建筑既有审美，又有经济功能。	zh
+0	我没有足够的信息。	我需要更多信息来决定购买哪种汽车。	zh
+2	这是20％的股权么	利息百分比是20？	zh
+2	Charles F. Lummis(1859-1928)是美国西南部和加利福尼亚州的一个著名的墨西哥西班牙民间传说的支持者，他是一位自学成才的摄影师、人种学家、音乐学家、记者，同时也是洛杉矶西南博物馆的创始人。	Charles F. Lummis是一名摄影师。	zh
+1	真的很糟糕，那，呃，我	一点也不差。	zh
+1	呃是的，我会说，呃，我会飞走，这，呃，我认为它应该，呃，会吸引一些相同的观众呃	我真的不知道我会选择什么。	zh
+1	是的，呃，我们，呃，U2乐队的构想里包括Rudolph Anderson。	鲁道夫·安德逊无处可寻，所以我们只有一个U2。	zh
+1	麦克金非常懊恼，不仅输了，而且还落后于霍华德及Cauldwell三个位置。	因为McKim先完成了，所以他欣喜若狂。	zh
+0	汽车俱乐部的成员被称为俱乐部成员，他们争夺奖杯、开大篷车，并经常参加筹款活动。	汽车俱乐部的成员出售汽车。	zh
+0	当然他们并不是在说，你知道你完全不能照顾他们，但你知道他们会来自大家庭。	有些人不能照顾老人的亲戚，因为他们的家有很多楼梯。	zh
+0	这就是我大学没有毕业的原因，但是我读过的书没有哪本是我应该去读的。	我2002年从大学退学。	zh
+0	他们招标，Jeremy，他平静地说。	杰里米一生都是海盗。	zh
+2	麦克金非常懊恼，不仅输了，而且还落后于霍华德及Cauldwell三个位置。	麦金因为只拿到第三名而觉得受到了羞辱。	zh
+1	这就是我大学没有毕业的原因，但是我读过的书没有哪本是我应该去读的。	我以优异成绩大学毕业。	zh
+2	上校接受了它，并且迟迟地鞠躬，取下他宽大的帽子。	上校戴着一顶帽子。	zh
+0	此外，我或许会看到一些东西，啊哈，也许是一个V6。	我认为 V6 是最佳路径。	zh
+1	种植园资本主义的结束可能像欧洲共产主义的消亡一样安全。	欧洲的共产主义没有结束。	zh
+1	22 尽管有着这些严格的“工资水平不时更新”的立法标准，在1990年代，服装业工作场所的广泛侵权行为已经司空见惯。	1980年，所有服装行业和商店都永久关闭。	zh
+1	抱歉，我们支付任何你知道的托儿费用，但我们不会支付他们不对头的费用	育儿基地免费。	zh
+1	反过来，对象必须在机器上运行几分钟，然后脱离机器几分钟，等等。	这东西不能在机器上。	zh
+2	国家意识也是如此。	这同样适用于国家认同感。	zh
+0	我们得到的好处之一就是旅行	旅行是我最喜欢的部分。	zh
+0	他在皇家港口过了两个星期，他的船几乎是现在在牙买加中队的一个部队。	他正在修理他的船。	zh
+1	Wolverstone在他的船长面前挑衅，我会亲眼见到Bishop上校下地狱，或者我向他撒谎。他吐了口痰，大概是为了强调的目的。	沃夫斯通和毕夏普上校是亲密的朋友。	zh
+0	如果最初的扩张是指数型的，接下来就会减慢成线型的，就像通货膨胀假说中或者纯粹的量子方法中，粒子视界的问题就会消失。	指数初始扩展的数学计算非常复杂。	zh
+1	我有一个录像机，观看录像时我必须要把它退回来几次，因为总是同一部分拍摄失败，而且，呃，它还没有拍到过真正的好照片	我的VCR工作完美。	zh
+1	德博拉·利普施塔特在她的著作“拒绝承认大屠杀”中写道，我们不应该公开辩论不可接受以及明显虚假的陈述，因此她提出了像政府审查一样强大的补救办法。	Lipstadt是一位厨师。	zh
+2	“ 稳住，老狼！稳住！”铁血船长告诫他。	铁血船长向老狼大喊。	zh
+2	在某种程度上, 理性预期的增长是为了试图了解证券交易所的实际交易。	人们正试图了解证券交易所的交易。	zh
+0	我派人去找你了，Blood船长，因为我刚收到的一些消息。	我收到的消息让我感到震惊。	zh
+2	他清楚的认识到，她把生命的每一刻都奉献给这位优雅的、充满魅力的从St. James来的年轻Lord Julian Wade。	朱利安勋爵来自圣詹姆斯。	zh
+0	15 指挥官希望我们做些事，并用法律语言来推动我们采取行动。	如果不是为了法律，我们会违反指挥官的命令。	zh
+1	标记它们或任何你自己做的事，他们告诉你该做什么，但你都由自己做	他们一点也没有告诉你如何去做。	zh
+1	你了解这家公司吗？	你读过“The Soft”吗？	zh
+1	不管怎样，我回到了我的，我的办公桌。	我拒绝再坐下。	zh
+0	但我不相信任何这样的算法工具是完整的。	没有人的判断，算法无法决定如何制作完美的三明治。	zh
+1	她有什么理由不告诉你吗？	我知道她没有理由不告诉你。	zh
+0	他没去到。	他不被允许前往博物馆的开幕礼。	zh
+1	这些分子器件的高阶复合物之所以出现，是因为自然选择能够在集合特性增强适应性时，对这些分子聚集物的集合特性起作用。	所有的分子仪器都一样复杂。	zh
+2	而，呃，当我加入的时候，有二千五百人，呃	当我成为会员的时候，至少有二千五百人。	zh
+1	他唯一一只眼的眼角扫见一条从同伴身上脱开上升的灰绸饰边。	他有三只眼睛。	zh
+1	所以当他们告诉她她必须和这个男人回家时，她说，和他一起回家?	他们说她还不能够去其他地方	zh
+2	你不去？他说，在问题和主张之间。	你不去吗？他问。	zh
+0	你不去？他说，在问题和主张之间。	你为什么不马上离开呢？他咕哝着。	zh
+0	在圣安东尼奥，从1913年开始，瓜达卢佩圣母大教堂就已经有Los Pastores表演了。	每年都有多个演出。	zh
+1	呃，你对科罗拉多斯普林斯的报纸处理当地的值得关注的新闻有何看法	你对全国性报纸和他们的全球报道有什么想法?	zh
+0	很明显今天的孩子们在电视机前花的时间太多了，这个环境限制了亲子共同活动、玩耍、阅读、以及其他有意义的追求的可用时间。	现在的孩子比看书花更多的时间看电视。	zh
+0	嗯，她很好，你知道她是个狠角色，她会和任何人坐在一起，和任何人玩。	她通常玩扑克或二十一点，但有时会玩拼字游戏。	zh
+1	生物圈已经扩大，事实上，或多或少地持续分解，进入到邻近不断扩大的任何可能。	生物圈萎缩	zh
+2	当我拉的时候，当他为我拉座舱盖，让我开始把他拉出来时，他指着飞机左侧在飞行中实际上已经融化了的两个仪器。	飞机上有已经熔化的仪器。	zh
+1	“不会是毕晓普本人，”沃尔夫斯通不是很肯定地说。	伍尔弗斯顿从未对主教说过任何东西。	zh
+1	¿Estás diciendo que los profesores o los padres...?	¿Estás diciendo que lo hicieron los estudiantes o el ayudante del profesor?	es
+1	Era en lo que teníamos a Rudolph Anderson, una formulación de tres U2.	A Rudolph Anderson no se le podía encontrar en ninguna parte, así que solo teníamos un U2.	es
+2	La relación entre derechos y libertad se da la vuelta de esta manera.	Existe una relación entre tus derechos y tu libertad.	es
+2	Sí, no lo hago bien, ¿qué es lo que pasó  en la derrota en diciembre pasado? ¿o por cuántos votos? ¿o por unos pocos cientos de votos?	Perdió no por muchos votos.	es
+1	Con el rabillo de su único ojo había divisado una figura esbelta vestida de seda gris que subía la escalera.	Él tiene tres ojos.	es
+2	Seguía ahí dentro.	Ella todavía estaba en las proximidades.	es
+2	Esa chica, allí. Él extendió un brazo desnudo para señalarla.	Él señaló a la niña.	es
+1	Entonces, bueno, de todos modos, estos son los tres, eh, los pilotos U2 que están en la oficina del presidente Kennedy en Washington con el general May.	El General May nunca fue a la oficina del Presidente Kennedy.	es
+2	oh, bueno, en cierta manera tengo un ordenador mío, tenemos dos PC en casa pero ninguno de los dos es realmente mío, tampoco ninguno está relacionado con el trabajo y	En mi casa tengo dos ordenadores.	es
+2	vale, y tienen una buena lasaña	Su lasaña es excelente.	es
+1	parece que, potencialmente, solo está empeorando, esto...	Está mejorando.	es
+1	Los críos estamos construyendo nuestro mundo juntos, literalmente.	La gente no vive en el mundo, está compuesto solo de animales y plantas.	es
+1	Para mí, soy completamente de la opinión de Wolverstone.	Nunca he oído de nadie que se llame Wolverstone.	es
+1	También, oh, deja que salga de esto.	No necesito lidiar con eso.	es
+1	Cuidadosamente acarició su barba dorada.	Su cara estaba bien afeitada.	es
+1	oh, mmm..., no, pero sí tienen carreras de heno en las pistas de Oaklawn	No hay carreras en las pistas de Oaklawn.	es
+1	Así que devolví la llamada a Ramona porque tenía una pregunta sobre… vale… déjame acabar… tenía una pregunta sobre una cosa que estaba haciendo.	No me molesté en llamar a Ramona.	es
+0	No me importa si no sabes nada de esto.	Sé que no estás obsesionado con esto.	es
+1	Se veía a sí mismo como el perro de la fábula que había dejado caer la sustancia para arrebatarle una sombra engañosa.	Nunca deseó ser como ese perro en esa fábula.	es
+2	Con los otros hemos hecho con algunos amigos una especie de Día de la Madre donde tomaron turnos.	Algunos amigos celebraron el Día de la Madre.	es
+0	No sé si vienes de Texas, probablemente no lo sé, no debería hacer estereotipos, pero el control de armas probablemente está un poco mal visto allí, pensaría	Texas debería tener leyes de control de armas más fuertes.	es
+2	Una vez establecidas, las neuronas comienzan a asumir funciones únicas enviando ramificadores que forman conexiones elaboradas con otras neuronas.	Las neuronas establecidas se ramifican para formar conexiones con otras neuronas, lo que les permite realizar diversas funciones.	es
+1	Yo ... creo que lo ha hecho, dijo Calverley, entre la duda y la sospecha.	Habló inteligentemente y claramente decidido ya que sabía que estaba en lo cierto.	es
+2	No era más que un desierto; había artemisa en la pista.	Había mucho follaje de matorral en la zona.	es
+0	¡Espera! Se giró para mirar al capitán, que había puesto una mano en su hombro y sonreía un poco nostálgico.	Había oído noticias emocionantes.	es
+1	Hoy en día, el término barbacoa se utiliza solo para referirse a la cocción de la carne en un hoyo. A esto también se le conoce como cocción en hoyo.	El término barbacoa se usa para significar verduras asadas en el horno.	es
+2	Que él lo haga no creo que  haga la más mínima diferencia, dijo su señoría de forma grave.	Si eligió actuar o no, su señoría no creía que hubiera cambiado nada.	es
+2	Sobre él en la cintura, donde todo anoche estuvo tan calmado, hubo un ajetreo activo y frenético de algunos hombres sesenta.	La noche se consideró tranquila, aunque hubo una gran conmoción después.	es
+1	Durante los años escolares de preescolar y primaria, pensé que está muy enlazado al aquí y ahora.	Los niños de preescolar y primaria suelen soñar con el futuro.	es
+0	Pero, mira, piénsalo.	Lo pienso a menudo.	es
+2	Entonces, cuando le dijeron que se tenía que ir a casa con este tipo, ella dijo: ¿Irme a casa con él?	Le dijeron que se fuera con el hombre.	es
+1	Deborah Lipstadt, en su libro Denying the Holocaust, escribió que no deberíamos hablar públicamente sobre afirmaciones inaceptables ni falsas, y por lo tanto propuso una solución tan poderosa como la censura gubernamental.	Lipstadt era cocinero.	es
+2	Y pueden ser muy agradables también después de que hayan sido entrenados.	Cuando se entrenan, pueden ser bastante agradables.	es
+0	Era embarazosa su presencia en este momento por la naturaleza de su altercado con Wolverstone.	Ella huyó rápidamente de la escena para evitar un mayor escrutinio.	es
+2	Mientras se hace esto, se reza.	Ocurren otras cosas mientras se dicen las oraciones.	es
+0	vale, y tienen una buena lasaña	Su lasaña es genial debido a la salchicha picante que usan.	es
+1	Comienzo la vida con una dotación de cien peras y mil manzanas.	Tengo más peras que manzanas.	es
+1	Buenos días para usted, señor, saludaba agradablemente Blood	La sangre no dijo nada al hombre que encontró.	es
+0	Descubrimos que era una aeronave U2, pero no pudimos, no podíamos decir nada sobre lo que era; nada a nuestras esposas, niños, o a nadie.	No pudimos decirle a nadie que el U2 había aterrizado.	es
+1	Había pasado una quincena en Port Royal, su barco era prácticamente uno más en el escuadrón de Jamaica.	Nunca había estado en Port Royal.	es
+1	Él no pudo ir.	Él fue el primero en ser invitado y disfrutó de la experiencia.	es
+1	El crecimiento económico es parte fundamental de la creatividad del universo como un todo.	El crecimiento económico es un monstruo de un tipo muy particular; una entidad independiente del universo.	es
+0	Estos compuestos avanzados de dispositivos moleculares surgieron porque la selección natural puede actuar sobre las propiedades colectivas de dichas adiciones moleculares cuando aumentan la idoneidad adaptativa.	Estos dispositivos moleculares se usan principalmente para producir varios venenos para protección.	es
+0	Darwin comienza con la vida aquí ya.	Darwin empezó centrándose en los peces.	es
+1	Usted no es muy cortés, señor, como ya lo había notado.	El hombre es calmo y razonable	es
+0	Esa puede ser nuestra torre de control, sugiere a Vance, señalando a una esquina en una estantería.	Los niños juegan con aviones de juguete	es
+2	sí, debes haber tenido uno inalámbrico	Corrige que el que tenías era inalámbrico.	es
+2	Los acertijos son tanto divertidos como educativos.	Los acertijos son dos cosas.	es
+0	eh, ¿cómo crees que los periódicos de Colorado Springs tratan las noticias de interés local?	¿Crees que los periódicos locales no están interesados en lo que los ciudadanos tienen que decir?	es
+0	No quiero entrar en la Tercera SS que es el Tercer Escuadrón de Apoyo Estratégico.	El Tercer SS es el peor escuadrón posible.	es
+1	Bueno, no hay nadie ahí para ayudarme.	Hay mucha gente que me puede ayudar allí.	es
+2	Intuitivamente, el flujo ligeramente convergente en el espacio de estados permite clasificación cuando dos estados convergen en un único estado sucesor, esos dos estados se han clasificado como equivalentes por la red.	El flujo convergente permite la clasificación.	es
+1	La conexión entre la nación limitada y la igualdad sin límites tiene connotaciones paradójicas.	La nación no está conectada a la igualdad sin límites.	es
+1	Entonces háganles saber que si intentan obstaculizar nuestra navegación, colgaremos a la prostituta primero y lucharemos por ella después.	No había nada capaz de frenar la nave.	es
+0	¿Qué mejor manera?, demandó.	Estaba convencido de que había elegido la mejor manera.	es
+0	Se paró cuando vio al capitán Blood, le saludó, como era su deber, pero la sonrisa que levantó el bigote rígido del oficial era tristemente sarcástico.	Podría ver Captain Blood.	es
+2	Wow, tal vez debería ir a verlo en el teatro y planear ir a cenar después para poder sentarnos y hablar sobre eso	Podemos ir a cenar después del espectáculo.	es
+1	No. La sangre cerró su telescopio.	No había señales de sangre cerca del telescopio.	es
+1	Además, probablemente miraría algo, oh, tal vez un V seis	Jamás tendría en cuenta un V6.	es
+0	15 El comandante quiere que hagamos algo y ha usado el lenguaje de la ley para que entremos en acción.	Si no fuera por la ley, habríamos desobedecido al comandante.	es
+2	Um, tienes que llamar a Ramona en Concord. Tenga en cuenta que está en una oficina. En realidad, está en un cliente al otro lado de la ciudad. Estamos en Monroe. Ella está en Concord.	Ramona está en Concord.	es
+1	No, fue solo una vez por la mañana, y ella dijo que volvería a la oficina.	Ella no mencionó si iba a regresar o no.	es
+2	No. La sangre cerró su telescopio.	Había sangre alrededor del telescopio.	es
+2	Él no pudo ir.	No se le permitió asistir.	es
+2	Necesito que hagas algo por mí.	Hay algo que necesito hecho.	es
+0	Y realmente odio perderlos, pero ese es uno de los riesgos que supongo que tienes por tener un patio.	Tener un jardín no es todo diversión y juegos, pero yo lo disfruto.	es
+0	Regresarás a él de inmediato, y llevarás a tu tripulación contigo, o de lo contrario... Pero Ogle, violento de apariencia y gestos, lo interrumpió.	Ogle estaba enojado.	es
+2	Por supuesto, allí me preguntaron por qué había ido.	Me preguntaron que por qué había ido allí.	es
+1	Pero, ya sabes, él era, en muchos sentidos, como el hijo del dueño de una plantación porque era el hijo de este hombre que tenía muchas propiedades.	Su padre nunca había tenido nada en su vida.	es
+2	Esto no quiere decir que la buena arquitectura sea meramente utilitaria.	Eso no quiere decir que la buena arquitectura esté diseñada únicamente de acuerdo con la funcionalidad.	es
+0	mmm..., bien, y yo iba a decir que hay algunas otras áreas que podrían cortar, tú lo sabes, yo no, no necesariamente tendrían que cortarlo allí	Pensé que deberían recortar en gastos de comida y no en libros.	es
+2	Por eso, crearon continuamente un mundo no estacionario en el que solo tiene datos válidos el pasado relativamente reciente.	Un mundo no estacionario no es deseable para algunos si debe dar cuenta de la información del pasado distante.	es
+2	No me apasiona lo que Wolverstone acaba de decir.	Wolverstone había dicho algo que no hacía que uno se sintiera borracho	es
+1	Sobre él en la cintura, donde todo anoche estuvo tan calmado, hubo un ajetreo activo y frenético de algunos hombres sesenta.	La noche fue extremadamente concurrida ya que las calles estaban llenas de gente.	es
+1	De todos modos, terminé de llegar a casa a las 6:30 de hoy y ese fue mi día.	Decidí volver a casa a la hora del almuerzo y tomarme el resto del día libre.	es
+2	Entonces Shannon tomó el logaritmo del volumen en el espacio de mensaje ocupado por un mensaje y lo multiplicó por la probabilidad de que ese mensaje se enviara desde la fuente.	Shannon hizo cálculos sobre el mensaje.	es
+1	sí, claro, no estaban hablando de eh... cuando sabes que no puedes cuidarlos, pero sabías que vendrían de grandes familias extensas	Todos cuidan de su propia familia, sin importar lo que pase.	es
+0	sí, claro, no estaban hablando de eh... cuando sabes que no puedes cuidarlos, pero sabías que vendrían de grandes familias extensas	Hay personas que no pueden ocuparse de los familiares mayores dado que sus casas tienen demasiadas escaleras.	es
+1	eh, uh, sí, así que tienes un letrero ahí que dice que tienes este sistema de alarma y qué si un ladrón llega y corta tu línea telefónica	No es una buena idea poner carteles diciendo que tienes una alarma.	es
+1	preocúpate por cómo afectan las noticias nacionales a la zona local	No podria importarme menos lo que las noticias nacionales cubren con respecto a nuestras areas locales	es
+0	bien, ¿por qué no empiezas? Porque has tenido más tiempo para pensar en ello, si no te importa	¿Por qué no nos explicas tu libro a todos?	es
+1	Me quedan una o dos espinas. Y, con una risa, Blood se fue a su camarote.	Blood frunció el ceño.	es
+0	Y la abuela solía contar la historia sobre cómo su hermana y el marido de esta decidieron que se iban a trasladar a la ciudad, a Augusta, y hacerse pasar por blancos.	La hermana de la abuela no era blanca, pero quería serlo para poder ir a la escuela.	es
+1	Si, si tu mano estuviera expuesta fuera del traje de presión, tus manos tendrían cinco veces el tamaño, si sufrieras una descompresión.	No habrá cambios en tu piel.	es
+1	El vaquero o buckaroo es alguien de occidente y el cowboy es alguien sureño.	El vaquero es un tipo del norte.	es
+2	Pero sospecho que esta seriedad es solo una máscara bajo la cual se divertía Lord Julian en secreto.	Julian parecía serio, pero en realidad se divirtió.	es
+1	Eh, esto está bien, fue real; es divertido, fui a un seminario que era eso, era un seminario de satélites, estuvo muy bien y era solo para mujeres	Realmente no me gustó el seminario que se hizo por satélite.	es
+1	Diego siguió sus instrucciones y en la cima del monte encontró unas bonitas rosas de Castilla, aún cubiertas en rocío.	Diego se negó a hacer lo que ella dijera.	es
+0	En este poema, Joaquan vive y se escapa en un barco de México o América del Sur y el cuerpo que es decapitado es de hecho el de su buen amigo, Ramen.	Joaquan no esperaba que el cuerpo fuera el de su amigo.	es
+0	Es un servicio respetable.	Es un servicio honorable porque trata sobre salvar vidas.	es
+2	Cuando yo estuve allí, Texas solo tenía cincuenta y cinco mil.	Solía estar en Texas.	es
+1	7), y aquellos con baja demanda (una media de 1300 unidades a la semana) y alta variación de demanda (Cv = 1,3).	El grupo de baja demanda tiene un promedio de menos de trescientos.	es
+0	No sabíamos qué era un U2 y nadie sabía nada sobre un U2.	No sabíamos cómo llamar lo que vimos en el aire.	es
+1	y más o menos me gusta la alubia carilla pero no creo que sea una cadena	No me gustan los frijoles de ojo negro.	es
+1	Vaya, así de confidencial era.	Era información pública.	es
+0	Michael Santo of, of Firewell and Company, of Buffalo, NY, they was the one that uh, manufactured, uh, invented the high O2 regulator before that they built fire control on the stove well.	Santo se especializó en seguridad contra incendios porque era un problema que le era muy querido.	es
+2	Lo mismo puede decirse del sentido de nacionalidad.	Lo mismo se aplica al sentimiento de identidad nacional.	es
+0	22 A pesar de estos estrictos estándares de legislación con niveles salariales actualizados de vez en cuando, las violaciones generalizadas en los lugares de trabajo de prendas de vestir se han convertido en algo común en los años noventa.	No hay suficientes inspectores para controlar infracciones en los lugares de trabajo de la sección de ropa.	es
+0	Sí, algún grupo de interés especial.	El grupo está interesado en temas ambientales.	es
+0	Tienes el descaro de reprenderme porque no te cojo las manos cuando sé cómo están manchadas; ¿cuando sé que eres un asesino y algo peor? La miró con la abierta.	Él cree que el crimen cometido puede haber sido genocidio.	es
+2	Regresarás a él de inmediato, y llevarás a tu tripulación contigo, o de lo contrario... Pero Ogle, violento de apariencia y gestos, lo interrumpió.	Ogle tenía una tripulación.	es
+2	Pero será acerca del Old Wolf que él quiere verte.	Él quiere verte sobre el viejo lobo.	es
+1	sí, debes haber tenido uno inalámbrico	El que tenías era definitivamente una versión con cable solamente.	es
+0	sabes otra ventaja que se me acaba de ocurrir. No le saqué tanto partido al menos aún en empresas grandes a veces pagarán como por la educación	Valdría la pena trabajar para una empresa más grande si me dieran dinero para la universidad.	es
+2	Cuidadosamente acarició su barba dorada.	Él tenía una barba que era de color dorado.	es
+0	Bueno, no hay nadie ahí para ayudarme.	No soy capaz de hacerlo por mí mismo.	es
+0	has leído The firm	¿Te gustaría tomar prestada mi copia de La firma para leerla?	es
+0	Eso es lo que sucede en Bridgetown la noche del ataque español.	Personas fueron asesinadas en el ataque español.	es
+2	Con el rabillo de su único ojo había divisado una figura esbelta vestida de seda gris que subía la escalera.	Él tiene solo un ojo.	es
+0	Intuitivamente, el flujo ligeramente convergente en el espacio de estados permite clasificación cuando dos estados convergen en un único estado sucesor, esos dos estados se han clasificado como equivalentes por la red.	El flujo convergente está influenciado por la población.	es
+0	Y sin embargo, hoy en día la suposicion común es que se puede confiar en nuestros funcionarios con un mapa racial y étnico preciso de la nación estadounidense.	La suposición de que los funcionarios tienen mapas raciales y étnicos es falsa.	es
+2	No pienses que lo acepto de buena gana.	No lo acepto voluntariamente.	es
+0	Por eso no me gradúe en la universidad, pero nunca, nunca leí ninguno de los libros que tenía que leer.	Abandoné la Universidad en 2002.	es
+1	y, mmm..., fueron dos mil quinientas personas cuando me uní y, mmm...	Solo hay un centenar de personas que se han unido.	es
+2	El final del capitalismo de las plantaciones podría haber llegado con seguridad como la desaparición del comunismo en Europa.	El capitalismo de plantaciones ha terminado.	es
+0	Entonces háganles saber que si intentan obstaculizar nuestra navegación, colgaremos a la prostituta primero y lucharemos por ella después.	No había forma de saber si el bote seguiría avanzando.	es
+2	Y él dijo: Mamá, estoy en casa.	Le dijo a su madre que había llegado a casa.	es
+2	Era embarazosa su presencia en este momento por la naturaleza de su altercado con Wolverstone.	El hecho de que ella estaba allí después de la pelea con Wolverstone fue considerado una vergüenza.	es
+2	Por supuesto que eso podría aumentar el crimen, ya sabes, y la gente entra y te roba la televisión y la vente porque ya no pueden trabajar más, ya sabes	Eso podría causar el aumento del crimen.	es
+0	Los acertijos son tanto divertidos como educativos.	Los acertijos son muy difíciles de resolver.	es
+1	El final del capitalismo de las plantaciones podría haber llegado con seguridad como la desaparición del comunismo en Europa.	No hubo un final del comunismo en Europa.	es
+2	oh, sí, y yo iba a decir que, esto, volaré, lo que, osea, creo que se suponía que, esto, iba a pillar a algunos de los mismos espectadores como, osea	Yo elegiría I'll Fly Away.	es
+0	Habían empezado con Nueva York para visitar a algunos familiares de este primo, y se quedaron y no sabían cómo volver, así que él se quedó con ellos.	Se quedó en Brooklynn con su familia.	es
+1	Con los otros hemos hecho con algunos amigos una especie de Día de la Madre donde tomaron turnos.	Fue para el Día del Padre y Ellen siempre lo cuidó.	es
+2	Además, probablemente miraría algo, oh, tal vez un V seis	Estoy considerando ver un V6.	es
+0	Usted no es muy cortés, señor, como ya lo había notado.	Ellos están teniendo una conversación.	es
+1	Creo que por eso lo recuerdo.	No lo recuerdo en absoluto.	es
+2	sí, claro, no estaban hablando de eh... cuando sabes que no puedes cuidarlos, pero sabías que vendrían de grandes familias extensas	Algunas personas no pueden cuidar de otras personas.	es
+0	el último contrato que se le concedió a Virginia tiene una demanda contra Gratin para que deje de construir porque se obtuvo de forma fraudulenta o algo parecido, como sabes	Los contratos han levantado muchas banderas rojas con los abogados.	es
+1	bien, ¿por qué no empiezas? Porque has tenido más tiempo para pensar en ello, si no te importa	Deberías ir de último porque no sabes nada.	es
+1	McKim, para su disgusto, no solo perdió, sino que quedó tercero detrás de Howard y Cauldwell.	McKim estaba muy feliz porque terminó primero.	es
+1	no solo abogados sino también oficiales de policía y jueces y toda la profesión jurídica en general	No tiene nada que ver con nadie involucrado en el sistema legal.	es
+1	No hay necesidad de hurgar en ese tema, a menos que quieras asegurarte de que nos hundimos.	No pueden hundirse en ninguna circunstancia.	es
+0	pero, por otro lado, hemos comido un montón de mapaches y zarigüeyas y tortugas de todo tipo	He probado muchos tipos diferentes de animales como comida.	es
+0	Ese fue..., ese fue un día bastante aterrador.	Fue realmente aterrador cuando el tornado llegó a la ciudad.	es
+0	acaso sabemos lo que vamos a decir	¿Sabes qué guión nos van a dar para leer?	es
+2	sabes otra ventaja que se me acaba de ocurrir. No le saqué tanto partido al menos aún en empresas grandes a veces pagarán como por la educación	A veces las compañías más grandes te ayudan a pagar la educación.	es
+0	No, fue solo una vez por la mañana, y ella dijo que volvería a la oficina.	Ella dijo que volvería a la oficina con el almuerzo.	es
+1	Si a algo ha contribuido ha sido a aumentar su entusiasmo.	Disminuyó su emoción.	es
+1	Charles F. Lummis (1859-1928) fue un reconocido defensor del folclore mexicano en el suroeste y California. Fue un fotógrafo, etnólogo, musicólogo, periodista autodidacta y fundador del Southwest Museum en Los Ángeles.	Charles F. Lewis no pudo leer.	es
+2	En este poema, Joaquan vive y se escapa en un barco de México o América del Sur y el cuerpo que es decapitado es de hecho el de su buen amigo, Ramen.	El cadáver pertenece a Ramen.	es
+0	Me dirijo, en el apartado final de este capítulo, a otro puzle sobre lo que yo llamo un juego natural.	No tengo la solución para el enigma del juego natural.	es
+0	y, mmm..., a veces es bonito salir y comer una ensalada	De vez en cuando me gusta comer una ensalada vegetariana en la terraza.	es
+0	Mmm, así que simplemente se fueron de la ciudad, y ella, nunca volvió a ver a su hermana.	Se mudó a Texas y nunca volvió a ver a su hermana.	es
+0	Pero Pitt, aunque lo compartió, fue rápido en obedecer.	Pitt es el nombre de un perro muy obediente.	es
+1	oh, sí, y yo iba a decir que, esto, volaré, lo que, osea, creo que se suponía que, esto, iba a pillar a algunos de los mismos espectadores como, osea	Realmente ni siquiera sé qué elegiría.	es
+1	Inglaterra, ella lo corrigió en reprobación.	Él estaba equivocado y ella no dijo nada.	es
+2	es algo así como un jabón, una cosa tipo de telenovela nocturna	Es como una telenovela.	es
+0	¿No vas a ir? Él dijo, entre la pregunta y la afirmación.	¿Por qué no te vas ahora mismo? El gruño.	es
+2	Así que usualmente nos encontramos en la cabaña de mi tío en el lago y nos quedamos un par de días allí.	Vamos un par de días a la cabaña.	es
+0	Y él dijo: Mamá, estoy en casa.	Llamó a su madre tan pronto como el autobús escolar lo dejó.	es
+2	¿Debería ayudarla con los deberes? Y en ese caso, ¿cómo?	Debería preguntarme cómo ayudarla con los deberes.	es
+1	Tu resolución me libró de un horrible peligro, admitió.	La resolución no la protegió en absoluto de ningún peligro.	es
+1	bueno, definitivamente los mantendremos pobres y pisoteados e indefensos	Los estamos alentando e inspirando cada día.	es
+2	Mira como es manejado por mí.	Debería ser controlado por alguien.	es
+1	¿Qué mejor manera?, demandó.	No hizo ninguna pregunta, ya que sabía que había escogido la mejor manera.	es
+2	Pero Wolverstone no lo detendría .	El Wolverstone no llegó al final.	es
+2	Ciertamente, una parte de lo que necesitamos es una forma de distinguir la organización de procesos reales en el mundo del no equilibrio.	Tenemos que etiquetar a la organización.	es
+0	Sí, tenemos, entre el cónyuge y yo, tenemos seis	Mi marido y yo tenemos seis hijos en total.	es
+1	sabes otra ventaja que se me acaba de ocurrir. No le saqué tanto partido al menos aún en empresas grandes a veces pagarán como por la educación	Ninguna compañía ayuda con los costes de la educación, independientemente de si son grandes o pequeños.	es
+0	exactamente, es un estado activo, no es algo en lo que, ya sabes, puedas estas involucrado con pasión y esperar hacer algo bueno, realmente no lo creo	Creo que debes dedicar 10 horas al día para ser bueno en esto.	es
+1	Los miembros de los clubes de automóviles se llaman clubbers, y compiten por trofeos, paseos en caravanas de coches y, a menudo, eventos de recaudación de fondos.	Los miembros de los clubes de automóviles no montan.	es
+0	Charles F. Lummis (1859-1928) fue un reconocido defensor del folclore mexicano en el suroeste y California. Fue un fotógrafo, etnólogo, musicólogo, periodista autodidacta y fundador del Southwest Museum en Los Ángeles.	Charles F. Lummis era gracioso.	es
+0	Que él lo haga no creo que  haga la más mínima diferencia, dijo su señoría de forma grave.	Su elección fue comprar 12 pollos o 3 bueyes.	es
+0	Y, oye, de hecho dejaron de visitar a la familia porque estaban decididos que iban a ser blancos.	Dejaron de visitar a la familia cuando comenzaron las tensiones raciales.	es
+2	La ley no redime al individuo sino a la comunidad o a la nación como un todo.	La ley salvará a la comunidad y a la nación.	es
+1	Antes de darme una bofetada, ¿por qué no me dejas tomarme primero un buen vaso de chocolate con leche?	No puedo beber leche.	es
+1	Sí, tenemos, entre el cónyuge y yo, tenemos seis	Estoy soltero, nunca me casé.	es
+2	No quisieron permanecer cautivos.	Ellos habían sido capturados en algún momento pero querían escapar.	es
+0	Deborah Lipstadt, en su libro Denying the Holocaust, escribió que no deberíamos hablar públicamente sobre afirmaciones inaceptables ni falsas, y por lo tanto propuso una solución tan poderosa como la censura gubernamental.	Lipstadt escribió un libro que obtuvo excelentes críticas.	es
+2	um, no hay nada de malo con ser un padre que da todo lo que tiene a uh a uh una persona como uh como como tú	Está bien que un padre le dé muchos regalos.	es
+1	Pero será acerca del Old Wolf que él quiere verte.	Quiere verte por el Viejo Oso no por el Viejo Lobo.	es
+0	Además, ¿cómo podría haberme ayudado si estadía? Y cómo Pitt no le respondió a él: ¿ves? Dijo él, y encogió los hombros.	Les dijo que podía verlo, pero que al final no era gran cosa.	es
+2	El crecimiento económico es parte fundamental de la creatividad del universo como un todo.	Uno no puede separar el crecimiento económico del universo.	es
+2	Nunca he podido hacer nada con pasteles.	No puedo usar los pasteles.	es
+0	sí, tenían un montón de cosas que más o menos se rompieron al mismo tiempo	Algunas de las cosas que se rompieron eran valiosas.	es
+2	Por ejemplo, yo tengo deseos de que sería más feliz con más peras que manzanas.	Me gustarían peras más que manzanas.	es
+2	Mmm, así que simplemente se fueron de la ciudad, y ella, nunca volvió a ver a su hermana.	Nunca vio a su hermana después de eso.	es
+0	exacto, y me sentí muy halagado hasta que me dijo que la compañía con la que estaba	No me gusta la compañía con la que ella está.	es
+1	Y en realidad no lo entendió.	Ella sabía exactamente de lo que estábamos hablando.	es
+2	Si vas por debajo, y consigues tu equipo y tu mujer, serás enviado a bordo de uno de los barcos de la flota. Señaló el bote mientras hablaba.	Había una flota de barcos.	es
+2	Durante los años escolares de preescolar y primaria, pensé que está muy enlazado al aquí y ahora.	Los niños de preescolar piensan principalmente en el día de hoy.	es
+2	22 A pesar de estos estrictos estándares de legislación con niveles salariales actualizados de vez en cuando, las violaciones generalizadas en los lugares de trabajo de prendas de vestir se han convertido en algo común en los años noventa.	Los niveles salariales en la industria de la indumentaria no están estancados.	es
+1	y uh así que realmente disfruté	¡Era más que asqueroso!	es
+0	Y eso te hace sentir fatal.	Te sientes mejor después de una hora.	es
+2	oh, fue Snake River, oh Snake River con muchas serpientes en él	Snake River está lleno de serpientes.	es
+0	vaya, oh vaya, eso es interesante. Tú... ¿fuiste a clases para aprender cómo hacer eso?	Apuesto a que aprendiste tú mismo cómo hacerlo.	es
+0	Sí, sí, sí, ya sabes, ni siquiera me importaría tanto si tuvieran una corporación financiada.	Sería fácil averiguar si la corporación fue financiada.	es
+2	Si, si tu mano estuviera expuesta fuera del traje de presión, tus manos tendrían cinco veces el tamaño, si sufrieras una descompresión.	Tu mano podría cambiar de tamaño si saliese fuera del traje.	es
+1	'¡Caracoles! ¿Quizás vas a explicarte? ¿A dónde ha ido Wolverstone?	Wolverstone está aquí. No se necesita explicación.	es
+2	sí, tenían un montón de cosas que más o menos se rompieron al mismo tiempo	La mayoría de sus cosas se rompieron al mismo tiempo.	es
+0	Se le permitió percibir que era al elegante y apuesto joven de St. James, Lord Julian Wade, a quien ella dedicaba cada momento de su tiempo.	Ella y Lord Julian Wade compartieron un beso anoche.	es
+1	Esa puede ser nuestra torre de control, sugiere a Vance, señalando a una esquina en una estantería.	Alguien está ignorando a Vance.	es
+2	¡Espera! Se giró para mirar al capitán, que había puesto una mano en su hombro y sonreía un poco nostálgico.	Estaba mirando al capitán y luego se dio la vuelta para verlo.	es
+1	Tu corazón pasó a estar preadaptado para detectar temblores de terremotos prematuramente.	Tu corazón no puede recoger temblores previos de terremotos.	es
+2	Y realmente odio perderlos, pero ese es uno de los riesgos que supongo que tienes por tener un patio.	No deseo perderlo, pero eso es lo que podría suceder cuando tienes un jardín.	es
+0	Vaya, así de confidencial era.	Si alguien aprendiera la información, sería encarcelado.	es
+0	Sí, siempre dije que si moría, bien, siempre dije que si moría, volvería como perro que sería la mejor manera de ser	Creo que la mayoría de las personas que mueren regresan bajo la forma de un animal.	es
+1	Y, por lo tanto, el estado no era responsable de estas personas privadas que niegan los derechos sociales a los ciudadanos negros.	El estado era completamente responsable del comportamiento de las personas privadas.	es
+0	Wow, tal vez debería ir a verlo en el teatro y planear ir a cenar después para poder sentarnos y hablar sobre eso	Podemos ir a comer comida china después de ver esa película nominada al Oscar.	es

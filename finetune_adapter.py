@@ -23,11 +23,11 @@ if __name__ == '__main__':
         logger.info(F'Fine tuning {lang}......')
         train_ds = df_to_ds(train_dfs[lang], encode_batch(model.tokenizer))
         dev_ds = df_to_ds(test_dfs[lang], encode_batch(model.tokenizer))
-        model.train_adapter([lang])
-        model.active_adapters = Stack(lang, 'nli')
+        model.mbert.train_adapter([lang])
+        model.mbert.active_adapters = Stack(lang, 'nli')
 
         training_args = TrainingArguments(
-            learning_rate=params['lr'],
+            learning_rate=params['lr_ft'],
             num_train_epochs=params['train_epochs'],
             per_device_train_batch_size=params['train_bs'],
             per_device_eval_batch_size=params['val_bs'],

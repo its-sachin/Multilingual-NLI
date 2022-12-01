@@ -1,11 +1,8 @@
-torch==1.9.0
 transformers
 datasets
 numpy
 pandas
-regex
 requests
-pytorch-crf
-scikit-learn
+scikit_learn
 scipy
-sklearn
+adapter-transformers

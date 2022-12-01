@@ -1,6 +1,5 @@
 from utils import *
 from dataset import *
-from mBERT import MBERT
 from aBERT import ABERT
 from callback import CustomCallback
 
@@ -12,7 +11,7 @@ if __name__ == '__main__':
     print_params(logger=logger, params=params)
 
     dfs = read_data(params['train_path'])
-    dfs['en'] = dfs['en'].head(100)
+    dfs['en'] = dfs['en']
     train_dfs, test_dfs = train_dev_split(dfs, 0.2, params['seed'], ['en'])
     dfs['en'] = test_dfs['en']
 

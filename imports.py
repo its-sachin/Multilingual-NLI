@@ -58,6 +58,7 @@ params['train_path'] = 'data/train.tsv'
 params['test_path'] = 'data/test_kaggle_trans.tsv'
 params['model_path'] = 'model'
 params['my_model_file'] = os.path.join(params['model_path'], 'cs1190722_cs5190768.pkl')
+params['my_model_file_nli'] = os.path.join(params['model_path'], 'cs1190722_cs5190768_nli.pkl')
 params['device'] = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 # params['load_model'] = 'models/1669729888/my_model.pkl'    # with nli and adapter fine tuning
 # params['load_model'] = 'models/1669728712/my_model.pkl'  # with adapter fine tuning only
@@ -66,6 +67,7 @@ params['load_model'] = params['my_model_file']
 
 # Training:
 params['lr'] = 5e-4
+params['lr_ft'] = 5e-5
 params['train_bs'] = 64
 params['val_bs'] = 64
 params['test_bs'] = 64

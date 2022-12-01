@@ -33,10 +33,10 @@ def other_adapters():
             "tr/wiki@ukp",
             AdapterConfig.load("pfeiffer", non_linearity="relu", reduction_factor=2)
         ],
-        'fr': [
-            "fr/wiki@ukp",
-            AdapterConfig.load("pfeiffer", non_linearity="gelu", reduction_factor=2)
-        ]
+        # 'fr': [
+        #     "fr/wiki@ukp",
+        #     AdapterConfig.load("houlsby", non_linearity="gelu", reduction_factor=2)
+        # ]
     }
 
 
@@ -60,25 +60,23 @@ if __name__ == '__main__':
 
     train_dfs, test_dfs = train_dev_split(dfs, 0.1, params['seed'], to_tune)
 
-    tokenizer = AutoTokenizer.from_pretrained("xlm-roberta-base")
-    model = torch.load('models/1669728712/my_model.pkl')
+    model = torch.load(params['my_model_file'])
 
     lang_adap = other_adapters()
     for lang in lang_adap:
-        model.load_adapter(lang_adap[lang][0], config=lang_adap[lang][1])
-    tokenizer = AutoTokenizer.from_pretrained("xlm-roberta-base")
+        model.mbert.load_adapter(lang_adap[lang][0], config=lang_adap[lang][1])
     model.to(device)
 
-    for lang in to_tune:
+    for lang in lang_adap:
 
         logger.info(F'Fine tuning {lang}......')
-        train_ds = df_to_ds(train_dfs[lang], encode_batch(tokenizer))
-        dev_ds = df_to_ds(test_dfs[lang], encode_batch(tokenizer))
-        model.train_adapter(['nli'])
-        model.active_adapters = Stack(lang, 'nli')
+        train_ds = df_to_ds(train_dfs[lang], encode_batch(model.tokenizer))
+        dev_ds = df_to_ds(test_dfs[lang], encode_batch(model.tokenizer))
+        model.mbert.train_adapter(['nli'])
+        model.mbert.active_adapters = Stack(lang, 'nli')
 
         training_args = TrainingArguments(
-            learning_rate=params['lr'],
+            learning_rate=params['lr_ft'],
             num_train_epochs=params['train_epochs'],
             per_device_train_batch_size=params['train_bs'],
             per_device_eval_batch_size=params['val_bs'],
@@ -94,11 +92,11 @@ if __name__ == '__main__':
 
 
         trainer = AdapterTrainer(
-            model=model,
+            model=model.mbert,
             args=training_args,
             train_dataset=train_ds,
             eval_dataset=dev_ds,
-            tokenizer=tokenizer,
+            tokenizer=model.tokenizer,
             compute_metrics = compute_metrics,
         )
         
@@ -106,5 +104,5 @@ if __name__ == '__main__':
         trainer.train()
         logger.debug('\n\n\n\n')
     
-    torch.save (model, params['my_model_file'])
+    torch.save (model, params['my_model_file_nli'])
     logger.critical (trainer.evaluate())
